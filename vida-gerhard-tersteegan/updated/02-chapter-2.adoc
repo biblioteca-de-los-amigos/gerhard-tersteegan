@@ -1,4 +1,4 @@
-== Prefacio a la Tercera Edición. 1837
+== Prefacio a la Tercera Edición, 1837
 
 Hay entre los Cristianos en el presente un sentimiento generalizado e imperante,
 de que estamos al borde de grandes cambios, tanto en el mundo externo y visible,
@@ -59,4 +59,5 @@ Al traductor le agradaría interpretar esta circunstancia como una prueba de que
 el número de los que desean recorrer las sendas de la vida interior está en aumento,
 y espera también que sea una señal del nacimiento de un mejor y más brillante día.
 
---Samuel Jackson, 1837
+[.signed-section-signature]
+Samuel Jackson, 1837
