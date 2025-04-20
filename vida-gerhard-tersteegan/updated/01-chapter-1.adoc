@@ -1,4 +1,4 @@
-== Prefacio a la Primera Edición. 1832
+== Prefacio a la Primera Edición, 1832
 
 Hay una especie de instrucción que se deriva de la
 lectura atenta de las vidas de destacados santos,
@@ -86,6 +86,8 @@ superficiales e insatisfactorias de los que,
 aunque sean verdaderamente versados en el conocimiento de la letra de las Escrituras,
 en realidad, poseen poco de su espíritu.
 
---Samuel Jackson
+[.signed-section-signature]
+Samuel Jackson
 
+[.signed-section-context-close]
 Norwood, 7 de agosto de 1832

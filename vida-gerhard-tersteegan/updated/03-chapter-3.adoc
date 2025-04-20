@@ -177,14 +177,14 @@ A la una, retomaban sus labores, que continuaban hasta las seis de la tarde,
 después de lo cual quedaban libres y pasaban nuevamente una hora en oración privada;
 un estilo de vida que duró casi tres años. Tersteegen empleaba
 su tiempo libre en la traducción de obras edificantes,
-tales como The Compendium of True Godliness,^
-footnote:[Compendio de la Verdadera Piedad.]
-y The Hidden Life with Christ in God,^
-footnote:[La Vida Escondida con Cristo en Dios.]
+tales como _The Compendium of True Godliness_,^
+footnote:[__Compendio de la Verdadera Piedad.__]
+y _The Hidden Life with Christ in God_,^
+footnote:[__La Vida Escondida con Cristo en Dios.__]
 // lint-disable invalid-characters
 etc., del eminente piadoso Bernières de Lauvigny.
-Por este tiempo también escribió The Pious Lottery,^
-footnote:[Lotería Piadosa.
+Por este tiempo también escribió _The Pious Lottery_,^
+footnote:[__Lotería Piadosa.__
 Su Lotería Piadosa era un juego de cartas compuesto por 365 naipes
 que contenían palabras de sabiduría y consejos para los creyentes.
 Seleccionando al azar una carta de la baraja,
@@ -194,10 +194,10 @@ El libro de oraciones de Tersteegen tuvo éxito gracias a la popularidad
 de la práctica de la lotería profana del siglo XVIII,
 de la que su juego se apropió y adaptó para los propios fines de Tersteegen.
 Él anunciaba su juego como una lotería sin peligro de perder.]
-y preparó materiales para The Spiritual Flower Garden.^
-footnote:[Jardín de Flores Espirituales.
+y preparó materiales para _The Spiritual Flower Garden_.^
+footnote:[__Jardín de Flores Espirituales.__
 En 1724, cuando instruía a los hijos de su hermano y de su hermana, escribió para su uso:
-"`Esbozo imparcial de los principios del Cristianismo.`"
+"`__Esbozo imparcial de los principios del Cristianismo.__`"
 Nunca publicó esta pequeña obra,
 pero su valor puede inferirse de la siguiente circunstancia.
 Un piadoso ministro reformado vio este tratado después de la muerte de su autor.
@@ -337,6 +337,9 @@ así como también su poderosa manera de interceder en oración,
 quedó indeleblemente impreso en sus corazones.
 Él le hizo a un amigo íntimo el siguiente relato del mencionado viaje.
 
+[.embedded-content-document.letter]
+--
+
 Me he dejado inducir a aceptar las incesantes invitaciones de una pareja de ancianos,
 que residen a casi veinte millas de este lugar,
 y que creen haber llegado a la convicción por medio de mis escritos,
@@ -381,7 +384,10 @@ la comida acostumbrada ya no los satisface.
 El que tenga gracia para orar, que le ruegue al Señor de la mies,
 que envíe obreros a Su mies.
 
+[.signed-section-context-close]
 3 de octubre de 1747
+
+--
 
 Después de que sus predicaciones públicas habían sido descontinuadas durante algún tiempo,
 por el año 1750 se despertó un joven estudiante de Duisburg,
@@ -396,6 +402,9 @@ que a través del sincero arrepentimiento obtuvieron fe en nuestro Señor Jesucr
 y por Su gracia, han continuado firmes hasta hoy.
 Los relatos que él hizo sobre este tiempo en diferentes ocasiones,
 en confidencia a una amiga, merecen ser vistos aquí.
+
+[.embedded-content-document.letter]
+--
 
 Por algunos días me he sentido otra vez bastante mal,
 y creo que es por el resfrío que cogí, o tal vez también,
@@ -418,9 +427,16 @@ que si yo siguiera mi propia inclinación y encontrara la libertad de hacerlo,
 preferiría retirarme por completo.
 ¡Que el Señor nos dirija en todas las cosas!
 
+[.signed-section-context-close]
 14 de enero de 1746
 
+--
+
+[.offset]
 En otra carta dice:
+
+[.embedded-content-document.letter]
+--
 
 Hay, gracias a Dios,
 un gran despertar y agitación entre las personas aquí. Por algunas semanas seguidas,
@@ -470,9 +486,16 @@ preguntándole cómo esperaba reflexionar sobre estas cosas en su lecho de muert
 En resumen, el alcalde, así como también los otros magistrados,
 cedieron y reconocieron que yo estaba en lo correcto.
 
+[.signed-section-context-close]
 1 de enero de 1751
 
+--
+
+[.offset]
 En otra ocasión escribe:
+
+[.embedded-content-document.letter]
+--
 
 El despertar aquí y en otros lugares, continúa. Cada vez se añaden más,
 y me veo obligado a dedicarme casi desde la mañana hasta la noche,
@@ -550,9 +573,16 @@ en medio de cada perturbación y distracción de afuera,
 de las que habría podido esperar alguna vez; pero en cuanto a las emociones agradables,
 no puedo decir nada; a veces vivo como si estuviera muerto.
 
+[.signed-section-context-close]
 23 de febrero de 1751
 
+--
+
+[.offset]
 Además escribe lo siguiente:
+
+[.embedded-content-document.letter]
+--
 
 Desde mi última carta, la gente apenas me deja descansar.
 Ocasionalmente trato de retirarme a la fuerza, pero es en vano.
@@ -576,9 +606,16 @@ Si las reuniones se celebraran regularmente, no encontraríamos suficiente lugar
 Entre una y otra me dedico a recibir visitas,
 o a escribirles a los amigos que están lejos.
 
+[.signed-section-context-close]
 9 de abril de 1751
 
+--
+
+[.offset]
 En otra dice:
+
+[.embedded-content-document.letter]
+--
 
 Desde mi última carta han ocurrido eventos tan extraños,
 que no he podido responder tu agradable carta del 9 de julio antes de hoy.
@@ -611,9 +648,16 @@ Me mantengo tranquilo; en realidad, no fui a ver a los magistrados por causa mí
 ni porque me mandaran a llamar; sino voluntariamente,
 y para evitar el mal que iba a caer sobre otros.
 
+[.signed-section-context-close]
 20 de agosto de 1751
 
+--
+
+[.offset]
 En una carta posterior le dice a la misma persona:
+
+[.embedded-content-document.letter]
+--
 
 Todavía tengo algo particular que relatar.
 El día después de que envié la última carta,
@@ -639,6 +683,8 @@ todo irá bien.
 Las personas estaban profundamente afectadas, y algunas tanto,
 que es de esperar que las impresiones sean duraderas, etc.
 
+--
+
 A medida que aumentaba el número de los despiertos y de los hambrientos del pan de vida,
 nuestro difunto amigo era inducido una y otra vez a hablar en público.
 Todavía viven muchos que pueden atestiguar, con cuánta impresión,
@@ -650,10 +696,13 @@ Con lo cual, la demanda por sus sermones era tan grande,
 que ocho escritores se colocaban en las escaleras, donde podían oír claramente,
 y escribían las palabras que salían de sus labios.
 Por este medio se recopilaron treinta de sus sermones,
-y posteriormente fueron publicados bajo el título Spiritual Fragments (Geistliche Brosamen.)^
+y posteriormente fueron publicados bajo el título _Spiritual Fragments_ (_Geistliche Brosamen._)^
 footnote:[Fragmentos Espirituales (Geistliche Brosamen.)]
 Las siguientes cartas dan cuenta de los muchos sermones que predicó,
 y de las visitas que tuvo que recibir en ese tiempo.
+
+[.embedded-content-document.letter]
+--
 
 Hasta el día de hoy apenas puedo usar mi cabeza o mis ojos, y mi mano tiembla mucho;
 el poco descanso que he tenido debido a la afluencia de personas,
@@ -686,8 +735,8 @@ incluso las cosas buenas y espirituales que anteriormente nos proporcionaban
 tanta gratificación y de las que éramos muy tenaces,
 pero que, por esa misma razón, sólo servían para interponerse entre nosotros y Dios,
 y eran perjudiciales porque las sosteníamos muy firmemente.
-Jesús solo es suficiente, y sin embargo insuficiente,
-cuando no es completa y exclusivamente abrazado.
+_Jesús solo es suficiente, y sin embargo insuficiente,
+cuando no es completa y exclusivamente abrazado._
 ¡Oh,
 que le plazca al Señor confirmar y establecer los corazones de
 todos aquellos que están preocupados por sus almas inmortales,
@@ -695,7 +744,13 @@ y les permita encomendarse enteramente a la guía e influencias de Su Espíritu 
 quien a Su debido tiempo, los conducirá al verdadero templo de Dios,
 donde podrán estrechar sustancialmente al Salvador en los brazos de sus espíritus!
 
+[.signed-section-context-close]
 20 de marzo de 1753
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Contemplé la cercanía de la Navidad con sentimientos de ansiedad,
 estando temeroso de recibir muchas visitas, y por eso,
@@ -748,6 +803,8 @@ que durante el año pasado algunos entre ustedes me
 afligieron a menudo hasta el corazón y me desanimaron;
 eso no fue correcto; ¡que el Señor lo expíe!`"
 
+--
+
 Estas últimas palabras conmovieron a algunos de ellos,
 quienes después llegaron a pedir perdón.
 
@@ -772,7 +829,7 @@ si en alguna medida lo colocamos en condiciones de conocer mejor sus dones espec
 la notable gracia que le fue impartida,
 y la espiritualidad de sus opiniones y sentimientos.
 Sus escritos, en especial sus sermones,
-impresos bajo el título de "`Fragmentos Espirituales,`" en los que el lector
+impresos bajo el título de "`_Fragmentos Espirituales,_`" en los que el lector
 no es detenido por mucho tiempo con la cáscara de la sabiduría humana,
 sino que es llevado de inmediato al grano,
 muestran suficientemente cuán iluminado estaba su entendimiento,
@@ -816,13 +873,16 @@ con el único fin de conocer que Dios es lo que es; que conocerlo a Él es, en e
 vida eterna!
 El deseo de los hombres por tener mucho conocimiento, incluso de las cosas espirituales,
 es una poderosa prueba de que no conocen a Dios en realidad.
-Dios es en todos los sentidos todo-suficiente;
+Dios es en todos los sentidos _todo-suficiente;_
 sólo Él puede satisfacer y alegrar las amplias capacidades del alma,
 y eso entera y eternamente.`"
 
 No puede ser sino agradable para el lector,
 que se le presenten los siguientes extractos de ciertas cartas de nuestro difunto amigo,
 como obvios testimonios de su conocimiento superior y por experiencia.
+
+[.embedded-content-document.letter]
+--
 
 Te informo en este momento, que le ha placido al Señor visitarme con una enfermedad.
 Al principio de mi condición, yacía y me sentaba estupefacto, sin sentimientos, incluso,
@@ -835,7 +895,13 @@ de modo que es verdad, que Dios y lo que hay en Él, y todas Sus obras y caminos
 son el alimento y la felicidad propios de un espíritu creado.
 En Él está todo mi tesoro.
 
+[.signed-section-context-close]
 1 de febrero de 1746
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Sabemos que sólo Dios es supremamente bueno;
 que Él soporta a Sus criaturas y a Sus hijos en Cristo,
@@ -861,7 +927,13 @@ tal vez parezca diferente ante los ojos del Señor. Se lo dejo a Él, sea como s
 Importa poco cómo sea, si es como Dios quiere.
 No puedo ni quiero depender de nada excepto de Él.
 
+[.signed-section-context-close]
 9 de febrero de 1748
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Si yo tuviera que explicarte cómo me siento en mi estado de debilidad,
 te diría que no lo sé; y tal vez nunca haya sido menos consciente de éste.
@@ -877,7 +949,13 @@ me refresca mucho y hace que toda dificultad desaparezca inmediatamente.
 infinitamente glorioso y feliz,
 y suficiente para hacer que todo en nosotros sea bueno y feliz!
 
+[.signed-section-context-close]
 8 de marzo de 1748
+
+--
+
+[.embedded-content-document.letter]
+--
 
 ¡Cuán maravillosos,
 cuán incomprensibles son los caminos de Dios! ¡Cuán contrarios a nuestras expectativas!
@@ -902,7 +980,13 @@ Mi más sincero deseo es que este sea nuestro caso.
 Ora también por mí, mi querida hermana, y ruega al resto de tu familia que haga lo mismo,
 porque lo necesito.
 
+[.signed-section-context-close]
 22 de octubre de 1751
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Me pierdo en adoración,
 cuando pienso que el camino que Dios ha escogido hacia la felicidad eterna,
@@ -942,7 +1026,13 @@ pero en Jesús hay abundancia de todo lo que necesitamos.
 ¡Cuán cierto es esto, y sin embargo,
 sólo se experimenta en el grado en que la debilidad y la miseria sean realmente sentidas!
 
+[.signed-section-context-close]
 8 de marzo de 1754
+
+--
+
+[.embedded-content-document.letter]
+--
 
 ¡Hasta aquí me ha ayudado el Señor!
 Y Su ayuda hasta este momento me anima a esperar que Él me ayudará hasta el fin.
@@ -967,7 +1057,13 @@ alabarlo y glorificarlo en todas nuestras acciones!
 Siento que más de mi corazón permanece contigo que antes,
 y que la ausencia corporal no nos separa, ni puede separarnos.
 
+[.signed-section-context-close]
 5 de julio de 1754
+
+--
+
+[.embedded-content-document.letter]
+--
 
 No puedo expresarte, querida hermana,
 cuán inútiles y despreciables me parecen esta vida y las cosas del tiempo,
@@ -986,14 +1082,17 @@ En verdad el Señor es bueno y misericordioso con Su pueblo.
 Él es hermoso en Sí mismo y hermoso en Sus hijos.
 (Salmo 16:2)
 
+[.signed-section-context-close]
 1 de noviembre de 1754
+
+--
 
 Sus puntos de vista de las verdades evangélicas que
 pertenecen a la economía de la redención humana,
 eran tan puros como grandes eran su intuición y experiencia.
 Para convencerse de esto, sólo se necesita leer en conjunto sus escritos,
-particularmente The Way of Truth,^
-footnote:[El Camino de la Verdad]
+particularmente _The Way of Truth_,^
+footnote:[__El Camino de la Verdad__]
 con una mente imparcial.
 Incluso, al principio de su conversión,
 él contemplaba las verdades fundamentales de la religión en la luz pura y escritural.
@@ -1020,8 +1119,8 @@ y que no hay otro camino para encontrarlo y disfrutarlo,
 sino el camino estrecho de la oración interna,
 la negación al yo y la vida escondida con Cristo en Dios,
 abierto para nosotros y consagrado por la muerte del Salvador.`"
-Muchos de sus himnos en The Spiritual Flower Garden,^
-footnote:[Jardín de Flores Espirituales]
+Muchos de sus himnos en _The Spiritual Flower Garden_,^
+footnote:[__Jardín de Flores Espirituales__]
 muestran que los sentimientos y opiniones del autor, y el fundamento de su fe,
 eran puros y no adulterados.
 
@@ -1044,6 +1143,9 @@ incluso cuando eran mal recibidos.
 Le escribió lo que sigue a un ministro Reformado,
 que había tomado a mal una carta de advertencia contra los moravos.
 
+[.embedded-content-document.letter]
+--
+
 ¿Debo decir lo contrario a lo que siento, como es ahora tan habitual?
 He releído y examinado la carta en la presencia de Dios, pero no puedo, no debo,
 ni voy a decir, que reconozca que contiene sentimientos erróneos;
@@ -1055,6 +1157,8 @@ con una infidelidad tan vergonzosa, como la de renunciar o apartarme,
 por debilidad o hipocresía,
 un cabello del querido depósito de esa verdad que Tú me has encomendado,
 porque este u otro buen hombre, o grupo de personas estén opuestos a ella!
+
+--
 
 Él podía estar así de confiado en la expresión de
 sus sentimientos en temas de esta naturaleza,
@@ -1133,6 +1237,9 @@ provocó una correspondencia desagradable con un amigo suyo,
 un ministro Reformado en el norte de Alemania, que estaba relacionado con esa secta.
 El 6 de marzo de 1750 le escribió, entre otras cosas, lo que sigue:
 
+[.embedded-content-document.letter]
+--
+
 Creo que la secta de los Moravos no es agradable a los ojos de Dios;
 creo de ellos lo que te mencioné personalmente, y lo que te he escrito al respecto.
 Y a fin de ser breve, y no fastidiarte y entrar en detalles,
@@ -1177,6 +1284,8 @@ y encontrar el favor de los hombres de entendimiento, deberán humilde y abierta
 confesar y retractarse de sus errores y equivocaciones,
 y suplicar perdón por la ofensa que han causado.
 
+--
+
 A pesar de todo,
 él les dejó ver a los Moravos su imparcialidad hacia
 aquellos que se convertían a la verdad,
@@ -1185,6 +1294,9 @@ En una importante ocasión, en el año 1741,
 se sintió inclinado por la comunidad antes mencionada, que tanto cortejaba su atención,
 a expresar brevemente esta imparcialidad en una carta,
 de la cual lo siguiente es un extracto:
+
+[.embedded-content-document.letter]
+--
 
 Mis convicciones y mi religión son estos:
 Como alguien reconciliado con Dios a través de la sangre de Cristo,
@@ -1209,6 +1321,8 @@ los Moravos del resto de los hijos de Dios;
 ni concuerdo con ellos de ninguna manera.
 Me aflige mucho que ya hayan tantas divisiones en el mundo religioso,
 pero me aflijo mucho más, cuando se crean nuevas divisiones.
+
+--
 
 Tersteegen manifestó invariablemente esta imparcialidad.
 Siendo interrogado en una ocasión por uno de los tres piadosos
@@ -1253,6 +1367,9 @@ y misericordiosamente nos sostiene bajo tales pruebas.`"
 Al mismo tiempo vivió en habitual dependencia de Dios y de Su guía,
 como se desprende de la siguiente carta:
 
+[.embedded-content-document.letter]
+--
+
 ¡Qué la promesa divina en Oseas 2:6, "`Por tanto,
 he aquí yo rodearé de espinos su camino, y la cercaré con seto,
 y no hallará sus caminos;`" sea cumplida en nuestra experiencia!
@@ -1288,7 +1405,13 @@ a fin de que Su poder y Su gloria se perfeccionen en mi nadedad.
 y que hace que nos adhiramos cada vez más a las saludables
 verdades de nuestra nadedad y de Su toda-suficiencia!
 
+[.signed-section-context-close]
 15 de enero de 1745
+
+--
+
+[.embedded-content-document.letter]
+--
 
 ¡Que Jesús mismo, mediante Su Espíritu,
 nos guíe por el camino de toda verdad! (Juan 16:13) Porque somos como niños insensatos,
@@ -1301,7 +1424,13 @@ nos conducirá absolutamente bien, aunque no nos lo parezca;
 y que lo ensuciamos y estropeamos todo cuando no confiamos plenamente en Él,
 y deseamos guiarnos por medio de nuestra propia luz y sabiduría.
 
+[.signed-section-context-close]
 14 de enero de 1746
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Deseo ser hallado fiel y no negligente en aquello que el Señor me deja ver que
 requiere de mí. También deseo estar en continua disposición a sacrificar,
@@ -1334,7 +1463,13 @@ para alabanza y gloria infinitas de nuestro Dios,
 que nos ha llamado y nos ha permitido encontrarnos en esta tierra de exilio.
 ¡Amén, Jesús!
 
+[.signed-section-context-close]
 3 de agosto de 1753
+
+--
+
+[.embedded-content-document.letter]
+--
 
 ¡Cuán tranquilamente me puedo sentar cuando mi trabajo está terminado!
 ¡Cómo será entonces ese descanso que disfrutaremos finalmente!
@@ -1380,10 +1515,17 @@ más felices seremos a partir de ese momento.
 Sin embargo, el que no busca la comunión con Dios a través de la oración,
 no puede entenderlo correctamente.
 
+[.signed-section-context-close]
 11 de marzo de 1755
 
+--
+
+[.offset]
 Él también se rindió completamente a Dios.
 Sobre este tema escribe lo siguiente:
+
+[.embedded-content-document.letter]
+--
 
 No puedo decir mucho de mí mismo, pues es un tema demasiado oscuro para mí;
 se lo dejo todo a Dios.
@@ -1409,7 +1551,13 @@ sino que nos encomendemos desnuda, ciega y enteramente a Ti,
 consintiendo voluntaria y sinceramente nuestra propia nadedad, y así,
 en la ingenua despreocupación de la fe, vivamos y muramos Contigo y en Ti. Amén.
 
+[.signed-section-context-close]
 29 de agosto de 1741
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Cuanto más se separen el alma y el espíritu por la
 Palabra viva y eficaz de Dios (Hebreos 4:12),
@@ -1423,7 +1571,13 @@ sino al Señor. Experimento que Él es indeciblemente bondadoso conmigo en todas
 Ocasionalmente percibo que mi mente está en paz,
 pero en otros momentos no soy consciente de ello y debo contentarme.
 
+[.signed-section-context-close]
 25 de enero de 1748
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Mientras la unión con Dios es perceptible,
 la comunicación sólo se hace a través de los sentidos.
@@ -1445,7 +1599,13 @@ entregar todo lo que soy y tengo tranquilamente en Sus manos.
 ¡Qué Él sea amado y glorificado por toda la eternidad!
 Amén.
 
+[.signed-section-context-close]
 4 de noviembre de 1742
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Te deseo mucha gracia, que te permita, con un espíritu de niña,
 olvidarte y abandonarte a ti misma, para que seas recibida en y por el Señor,
@@ -1462,7 +1622,13 @@ y aflicción se sientan persuadidos de esto! ¡Oh,
 Señor, concédeles esto, y concédenoslo a todos nosotros hasta el fin!
 Amén.
 
+[.signed-section-context-close]
 8 de mayo de 1753
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Mira, mi querida hermana, ¿no hace el Señor todas las cosas bien?
 ¿No trata Él conmigo amablemente y como un padre?
@@ -1480,7 +1646,13 @@ no experimento ninguna comunicación interna perceptible,
 y ocasionalmente no pienso con frecuencia en mí; sin embargo, qué el Señor sea alabado,
 estoy bastante bien y tranquilo en Él.
 
+[.signed-section-context-close]
 20 de mayo de 1755
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Estoy en circunstancias singulares, incluso más de lo que soy consciente,
 o de lo que puedo expresar,
@@ -1522,9 +1694,16 @@ para que nunca regresemos a nosotros mismos,
 y para que todo lo que está dentro de nosotros cante con tu sierva Ana:
 "`No hay santo como Jehová; porque no hay ninguno fuera de ti`"! (1 Samuel 2:2). Amén.
 
+[.signed-section-context-close]
 Julio de 1747
 
+--
+
+[.offset]
 Él tranquilizaba su mente en todas las ocasiones en la sabia y buena voluntad de Dios:
+
+[.embedded-content-document.letter]
+--
 
 Este es mi empeño sin fatigarme, poder reposar en mi propia nadedad y pobreza,
 como las siento en el presente, deseando vivir únicamente en y por amor.
@@ -1536,7 +1715,13 @@ Pero alabado sea el Señor, que no me permite hacerlo por mucho tiempo,
 y a menudo despierta en mí una secreta satisfacción al pensar lo que Él es,
 y que sólo Él es bueno.
 
+[.signed-section-context-close]
 11 de octubre de 1746
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Todo dentro de mí me inclina al retiro, a la tranquilidad,
 a la inactividad de la imaginación y a la unidad en Dios y con Dios.
@@ -1574,7 +1759,13 @@ con la sencillez de los niños pequeños,
 y haciendo para el Señor lo que nuestras manos encuentren para hacer,
 sin tener mucha consideración de nosotros mismos o de nuestras propias obras!
 
+[.signed-section-context-close]
 5 de octubre de 1748
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Deseo vivir y sufrir según la voluntad de Dios.
 Puedo recordar el tiempo cuando podía sufrir, por decirlo así, con el valor de un héroe;
@@ -1604,10 +1795,16 @@ para que podamos servirte de manera digna,
 y no nos privemos de Ti ni de Tu paz celestial, por aferrarnos a nosotros mismos!
 Amén.
 
+[.signed-section-context-close]
 14 de agosto de 1750
+
+--
 
 Nuestro difunto amigo tenía al mismo tiempo, una firme confianza en Dios;
 de lo que la siguiente carta da testimonio:
+
+[.embedded-content-document.letter]
+--
 
 Sigo viviendo internamente en la gracia divina.
 Siento que no debo hacer nada, ni desear nada,
@@ -1627,7 +1824,13 @@ vuelve a esconder de nuestra vista Su camino y Su propósito para con nosotros,
 con el fin de simplificarnos y limpiarnos, y animarnos a no considerar nada salvo a Él,
 y rendirnos más enteramente en Sus manos.
 
+[.signed-section-context-close]
 3 de diciembre de 1745
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Toda verdad la experimentamos como verdad,
 según nuestra medida de fe y de los misericordiosos
@@ -1655,7 +1858,13 @@ es Él quien debe concedérnoslo y obrar en nosotros aquello a lo que estamos ll
 ¡Bendito sea Su nombre por toda la eternidad!
 Amén.
 
+[.signed-section-context-close]
 17 de Noviembre de 1750
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Creo que el niño Jesús nos invita amablemente a ir a Él,
 mostrándonos Su plenitud y preguntándonos, si no encontramos en Él lo suficiente.
@@ -1683,7 +1892,13 @@ olvidarme de mí mismo; porque eso tampoco está en mi poder.
 Tú me entiendes bien, y no te olvides, junto con los otros queridos hijos de Dios,
 de recordarme delante del Señor, algo de lo cual tengo mucha necesidad.
 
+[.signed-section-context-close]
 31 de diciembre de 1753
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Yo soy débil, pero el Señor es poderoso,
 y puede manifestarse como tal dentro de nosotros, según Su beneplácito.
@@ -1693,12 +1908,18 @@ y que todo lo que hay dentro de nosotros se incline ante Su nombre,
 ¡el Único que puede decir "`Yo soy`"! ¡Ojalá pudiéramos sólo mirarle a Él,
 y buscar para siempre en Él nuestro deleite, y nuestro verdadero y único reposo!
 
+[.signed-section-context-close]
 10 de agosto de 1753
+
+--
 
 La magnitud de las riquezas que Tersteegen encontró en Dios,
 era igualada por la pobreza que él encontró en sí mismo.
 Esto se hace evidente a partir de muchas de las cartas precedentes,
 e igualmente de las siguientes:
+
+[.embedded-content-document.letter]
+--
 
 No sé cómo me encuentro.
 Dios no me permite retener nada en lo que pueda colocar dependencia; quiero decir,
@@ -1715,7 +1936,13 @@ y cuán necesario es que tú y los demás oren por mí! Soy visto como
 una persona muy distinta de la que en realidad soy--Dios los sabe.
 ¡Qué Él gobierne todas las cosas para Su gloria!
 
+[.signed-section-context-close]
 15 de agosto de 1749
+
+--
+
+[.embedded-content-document.letter]
+--
 
 No puedo decir otra cosa sino que Dios ha sido bueno conmigo, y que lo sigue siendo,
 concediéndome continuamente gracia para pasarme por alto y olvidarme de mí,
@@ -1737,7 +1964,13 @@ Sus entrañas se mueven, incluso hacia el más miserable.
 ¡Gloria sea dada a nuestro Dios por los siglos de los siglos!
 Amén.
 
+[.signed-section-context-close]
 3 de diciembre de 1751
+
+--
+
+[.embedded-content-document.letter]
+--
 
 ¡Ah, mi querida hermana!
 No estoy en posesión de lo que tú supones que soy; y cuando lo tengo,
@@ -1764,7 +1997,13 @@ incluso más que si pudiera recordar todo un registro de fidelidad y virtud.
 ¡Por desgracia, el poder y las riquezas de los méritos de la sangre de Jesús,
 rara vez son reconocidos de la manera que deberían reconocerse!
 
+[.signed-section-context-close]
 1 de noviembre de 1754
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Es increíble lo pronto que comenzamos a depender en alguna medida de nosotros mismos,
 en momentos de luz y fuerza y comunicación discernible con Dios;
@@ -1782,7 +2021,13 @@ mientras nos regocijamos en nuestra propia nadedad y en Su total suficiencia.
 Debemos, pues, sin demora, abandonarnos a nosotros mismos,
 para que olvidándonos así de nosotros mismos podamos obtener verdadero reposo y paz.
 
+[.signed-section-context-close]
 10 de enero de 1755
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Nuestra mutua unión y comunión en espíritu compensa la interrupción
 que por un tiempo ha ocurrido en nuestra correspondencia.
@@ -1838,7 +2083,10 @@ Sí, amén. ¡Porque oh, Señor, tuyo es el reino, y el poder,
 y la gloria por los siglos de los siglos!
 Amén.
 
+[.signed-section-context-close]
 12 de septiembre de 1755
+
+--
 
 Su pobreza de espíritu le permitió caminar en humildad no fingida.
 Por estas conversaciones y escritos vemos que él fue, sin lugar a duda,
@@ -1914,10 +2162,13 @@ pero su estado físico debilitado y otras circunstancias,
 no se lo permitían. Lo que dice sobre este asunto en el prefacio de uno de sus himnos,
 es muy notable.
 
+[.embedded-content-document.letter]
+--
+
 Durante mi corta carrera,
 por gracia he experimentado muchos favores de la
 mano de Dios mientras estaba bajo la cruz,
-y se me enseñaban muchas cosas con respecto a Él. Obsérvese, por gracia.
+y se me enseñaban muchas cosas con respecto a Él. Obsérvese, _por gracia._
 Tuve, pues, hace veinte años, la intención de componer antes de mi deceso,
 cien himnos de acción de gracias,
 como sacrificio de alabanza a Dios por las misericordias
@@ -1929,6 +2180,8 @@ y espero, por Su misericordia, una eternidad interminable y feliz,
 en la que pueda cumplir mis votos a Dios y ofrecerle junto con todos los santos glorificados,
 más de un centuplicado tributo de alabanza.
 Amén. ¡Aleluya!
+
+--
 
 Una vez le dijo a un amiga,
 que él invariablemente había recibido las más grandes
@@ -2002,7 +2255,7 @@ Cuando sufría los dolores más agudos, los soportaba con tanta sumisión,
 que apenas se notaba que sufría bajo ellos.
 En el ejercicio de la paciencia manifestaba tal fortaleza,
 que durante un violento dolor de muelas, una vez dijo que tenía necesidad de paciencia,
-y sin embargo, cantó el himno, Venture Boldly, etc.
+y sin embargo, cantó el himno, _Venture Boldly,_ etc.
 
 Un amigo relata el siguiente ejemplo de su paciencia,
 benevolencia y compasión con los caídos.
@@ -2058,6 +2311,9 @@ Este hecho será corroborado por los siguientes ejemplos.
 Él le escribió a un amigo lejano la carta que se adjunta,
 quien lo había atacado con mucha amargura:
 
+[.embedded-content-document.letter]
+--
+
 En el futuro, deja de atacar a un hermano de la manera en que lo has hecho,
 o de desear que se avergüence en la presencia de
 Cristo por cosas que nunca han entrado en su mente.
@@ -2083,6 +2339,8 @@ mi gozo y toda mi gloria, permítele ver a mi hermano para su consuelo,
 que Tu rostro no me condena por lo que su pluma me imputa.
 Llena su corazón de gracia y paz, y bendícelo eternamente!
 Amén.
+
+--
 
 El año anterior, estando en Holanda, una persona de alto rango lo invitó a ser su huésped.
 Esta persona creía haber alcanzado un estado particular de paz interior, y por tanto,
@@ -2118,13 +2376,18 @@ cierta persona quería que él mandara a llamar a una
 piadosa dama que vivía lejos y deseaba conocerlo,
 ante lo cual envió la siguiente respuesta, fechada 19 de septiembre de 1766.
 
+[.embedded-content-document.letter]
+--
+
 La hermana N+++_____+++ es una de las personas que más amo y estimo en H+++_____+++;
 ella tiene una mente noble e inquisitiva, pero no puedo invitarla aquí,
 porque la situación era muy diferente cuando yo cantaba,
 
+[verse]
+____
 Sabes cuándo me regocijo al ver
-
 Las almas que se entregan a Ti.
+____
 
 Yo en ese tiempo vivía en el anonimato,
 incluso cuando inesperadamente tenía compañía, y amaba, por decirlo así, a distancia,
@@ -2141,7 +2404,13 @@ de la Providencia y con lo que creía que era mi deber.
 Mi máxima sigue siendo, "`alegrarse de disfrutar la compañía de los hijos,
 pero mucho más la del Padre.`"
 
+--
+
+[.offset]
 Él le escribió a la misma persona, bajo la fecha 3 de abril de 1767, como sigue:
+
+[.embedded-content-document.letter]
+--
 
 Esta semana ya he recibido cuatro visitantes del ducado de Berg; y un amigo de S+++_____+++,
 que tiene el objetivo correcto en mente,
@@ -2159,6 +2428,8 @@ de la oración ferviente y del retiro interior,
 para que podamos darle lugar a las operaciones e influencias divinas,
 desde donde debemos obtener, entera y únicamente, nuestra fuerza, vida y ser,
 tanto en la adversidad como en la prosperidad.
+
+--
 
 En otra ocasión: "`¡Dios,
 qué ventajas poseen aquellos que no tienen otra cosa
@@ -2182,6 +2453,9 @@ que el nombre de Jesús quede impreso en todos los corazones.`"
 Adjuntamos otro notable pasaje,
 de una carta que le escribió a un amigo Moravo que lo acusaba de sectarismo:
 
+[.embedded-content-document.letter]
+--
+
 Espero nunca haber mostrado, durante todos los años de mi llamado,
 que buscaba formar un partido o conseguir seguidores.
 Hasta hoy, continuamente oigo quejas de cerca y de lejos,
@@ -2200,7 +2474,10 @@ y déjame vivir despreciado y olvidado, sólo Contigo!
 Porque sé y puedo apelar ante Ti, la verdad de la afirmación, de que sé que Tú, Dios mío,
 eres lo único todo suficiente para mí.
 
+[.signed-section-context-close]
 6 de marzo de 1750
+
+--
 
 Pero a pesar de sus intentos de escapar del apego de sus semejantes,
 el resplandor ampliamente divulgado de su piedad y dones superiores,
@@ -2296,6 +2573,9 @@ Citamos sólo un ejemplo,
 del que él le dio cuenta a un amigo con su propia mano,
 con respecto a una querida hermana en Cristo que visitó durante su última enfermedad:
 
+[.embedded-content-document.letter]
+--
+
 Durante la cena del jueves,
 me llamaron repentinamente a+++_____+++. El ataque pasó en unas pocas horas.
 Me quedé toda la noche con ella, y reflexioné en su partida;
@@ -2330,6 +2610,8 @@ Durante todo esto, su tranquila y alegre paciencia fue tal,
 que uno no puede pensar en ello sin admiración y acción de gracias.
 La serenidad de su mente y la inquebrantable confianza en Dios hasta el final,
 siguen siendo de grande y continua consolación para mí. ¡Gloria a Dios, que lo dio todo!
+
+--
 
 De esta manera animó y consoló Tersteegen a muchos enfermos y moribundos,
 y fue usado como un instrumento para la consolación,
