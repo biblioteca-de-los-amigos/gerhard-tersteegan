@@ -93,14 +93,16 @@ para que su santo Nombre sea honrado y glorificado en mayor medida,
 por aquellos que se llaman a sí mismos por ese nombre y profesan ser Sus seguidores.
 ¡Por amor a Su bien amado Hijo, nuestro Salvador!
 
+[.signed-section-signature]
 Samuel Jackson
 
+[.alt.centered]
 === Carta 1
 
-¡Que la gracia de Dios en Jesucristo, reine en nuestra almas,
-a través de las influencias del Espíritu Santo!
-Amén.
+[.blurb]
+==== ¡Que la gracia de Dios en Jesucristo, reine en nuestra almas, a través de las influencias del Espíritu Santo! Amén.
 
+[.salutation]
 Querido hermano en el Dios trino, y mi compañero de peregrinaje,
 
 El amor con el que el Señor nos ha unido bondadosamente en Él,
@@ -229,10 +231,13 @@ especialmente a N+++__________+++, y a todos los demás que buscan al Señor,
 cuyos nombres se me han escapado.
 Me encomiendo a sus oraciones y permanezco como,
 
+[.signed-section-closing]
 Tu querido hermano en Jesús.
 
+[.alt.centered]
 === Carta 2
 
+[.salutation]
 Amado hermano en la gracia de Jesucristo,
 
 "`Somos del Señor`". Desde el mismo momento,
@@ -251,7 +256,7 @@ para que podamos unirnos íntimamente a Él. Con este fin,
 nos hemos entregado a Jesús y a la guía de Su Espíritu; porque Él es nuestro Salvador.
 De nuestra parte, no tenemos más que hacer,
 que permanecer con Él de acuerdo con nuestro grado de luz y estado,
-y seguirle tanto activa como pasivamente.
+y seguirle tanto _activa como pasivamente._
 
 Permite que tu corazón, así como tus pensamientos y afectos,
 se vuelvan hacia el siempre presente Dios de manera espontánea e infantil,
@@ -270,9 +275,9 @@ y que no requiere consideración, sino únicamente,
 una simple tranquilidad y recogimiento de corazón.
 No nos enseña misterios grandes o específicos,
 sino sólo uno: Cómo podemos morir a nosotros mismos y vivir para Dios.
-De esta manera seguimos al Señor de manera activa.
+De esta manera seguimos al Señor de manera _activa._
 
-Lo sigues de manera pasiva,
+Lo sigues de manera _pasiva,_
 cuando recibes todo lo que te sucede--en todas las ocasiones,
 directamente o indirectamente, con respecto al cuerpo o a alma,
 con reverencia y disposición--como algo que proviene de Dios mismo,
@@ -311,10 +316,13 @@ deberíamos sufrir con gusto la privación de los goces corporales y espirituale
 Todo pasa como un sueño vacío. Dios es nuestra salvación,
 y en Él seremos eternamente bienaventurados.
 
+[.signed-section-closing]
 ¡Que Jesús viva y se glorifique en ti!
 
+[.alt.centered]
 === Carta 3
 
+[.salutation]
 Mi querido amigo,
 
 El pasaje de las Escrituras que me has presentado: "`Esta es la vida eterna:
@@ -415,10 +423,13 @@ dondequiera que nos guíe. Todo estará bien al final.
 Encomiendo a mi querido amigo a la misericordiosa providencia de Dios,
 y permanezco muy cordialmente, etc., como,
 
+[.signed-section-closing]
 Tu afectuoso amigo y hermano.
 
+[.alt.centered]
 === Carta 4
 
+[.salutation]
 Querido y apreciado amigo en la gracia de Dios,
 
 Tu carta del 27 de enero me complació; porque según lo que he experimentado en mi medida,
@@ -514,7 +525,7 @@ y confusión. Apaguemos primero el fuego en nuestra propia casa,
 y luego podremos ayudar a nuestro prójimo--pero con agua.
 No puedo negar la corrupción externa de la iglesia, pero creo, mi querido amigo,
 que ahora tienes cosas más necesarias que atender, que ocuparte de ella.
-¡En el interior! ¡En el interior! ¡Sólo con Dios!
+__¡En el interior! ¡En el interior! ¡Sólo con Dios!__
 Tampoco te recomiendo que te separes de la iglesia y del sacramento.
 No se obtiene ningún beneficio material de tal separación,
 y a menudo ha sido dañina para muchos.
@@ -534,8 +545,10 @@ Aquí me debo detener,
 encomendando cordialmente a mi querido amigo al reconfortante amor de Jesús;
 y permanezco como tu sincero amigo y compañero de peregrinación.
 
+[.alt.centered]
 === Carta 5
 
+[.salutation]
 Querido y estimado hermano en la gracia de Jesucristo,
 
 Tu última carta del 5 de este mes, así como también las dos anteriores,
@@ -673,10 +686,13 @@ y de estar dispuesto a seguirle.
 ¡Qué Su gracia preserve firme esta disposición en nosotros hasta el final!
 En la misma gracia permanezco como,
 
+[.signed-section-closing]
 Tu afectuoso amigo y hermano.
 
+[.alt.centered]
 === Carta 6
 
+[.salutation]
 Querido y estimado hermano en la gracia de Jesucristo,
 
 Tu amable carta del 2 de diciembre, así como también la anterior del 23 de noviembre,
@@ -785,9 +801,11 @@ y el amor eterno de Dios sólo espera que tú y yo
 nos dejemos caer en Su regazo tal como somos.
 Amén. ¡Qué así sea!
 
+[.alt.centered]
 === Carta 7
 
-A una Noble Señora
+[.blurb]
+==== A una Noble Señora
 
 Puedo fácilmente imaginar, que a pesar de tu alto rango,
 no faltarán sufrimientos y disgustos de varios tipos,
@@ -831,8 +849,10 @@ para poder ganar a Cristo, la perla de gran precio,
 es sabio y feliz tanto aquí como en el futuro.
 Amén.
 
+[.alt.centered]
 === Carta 8
 
+[.salutation]
 Querido hermano en la gracia de Jesucristo,
 
 Aunque me tardo en responder a tus siempre bienvenidas cartas,
@@ -963,10 +983,13 @@ nosotros todo lo que es agradable ante Su vista! Él es fiel y lo hará. Ora por
 así como yo también lo hago por ti, aunque en debilidad,
 y permanezco a través de la gracia como,
 
+[.signed-section-closing]
 Tu agradecido compañero y hermano.
 
+[.alt.centered]
 === Carta 9
 
+[.salutation]
 Querido amigo en la gracia de Dios,
 
 He recibido debidamente tu breve carta a través de un amigo, y me ha complacido,
@@ -1051,10 +1074,13 @@ que por Su gran misericordia me ha llamado a mí y a ti a servirle,
 nos dé todo lo que es necesario para seguir fielmente Su llamado!
 Concluyo con esto y permanezco como,
 
+[.signed-section-closing]
 Tu afectuoso amigo.
 
+[.alt.centered]
 === Carta 10
 
+[.salutation]
 Querido hermano en la gracia de Jesús,
 
 Tus cartas del 25 de enero y del 22 de mayo, han llegado a mis manos.
@@ -1154,10 +1180,13 @@ y te conforme a Su propio corazón, en el que continuamos unidos,
 aunque ausentes en cuerpo!
 Permanezco a través de la gracia de Dios como,
 
+[.signed-section-closing]
 Tu muy afectuoso hermano.
 
+[.alt.centered]
 === Carta 11
 
+[.salutation]
 Querido hermano en la gracia de Dios,
 
 Recientemente he sido favorecido con tu agradable
@@ -1245,9 +1274,11 @@ está muy cerca y abierto a nosotros, pobres pecadores;
 en ésto nos sumergimos y vivimos para Su gracia gratuita.
 ¡A Él sea la gloria por los siglos de los siglos!
 
+[.alt.centered]
 === Carta 12
 
-Querido amigo y hermano.
+[.salutation]
+Querido amigo y hermano,
 
 He retardado por un tiempo responder tu amable carta del 21 de marzo,
 porque no sin razón, temo entrar en una correspondencia más extensa.
@@ -1284,7 +1315,7 @@ cerremos los ojos de nuestras mentes a los caminos y obras menores,
 para que podamos atender únicamente, en espíritu manso y quieto,
 nuestra santa vocación que nos ha sido misericordiosamente dada a conocer,
 y que será todavía más revelada en nuestros corazones.
-Es en el corazón y no en la cabeza,
+Es _en el corazón_ y no en la cabeza,
 donde el amor que atrae y recoge se hará sentir cada vez más eficazmente;
 cuyas sanas doctrinas de la más profunda renuncia de todas las cosas, la negación al yo,
 el menosprecio de sí mismos, tomar Su cruz,
@@ -1309,10 +1340,13 @@ y también espero que nuestra amistad en el Señor no quede sin bendición.
 ¡Qué Dios sea alabado por toda la misericordia que te ha mostrado,
 mi querido hermano! ¡Amémoslo, porque Él nos amó primero!
 
+[.alt.centered]
 === Carta 13
 
-A una Noble Señora
+[.blurb]
+==== A una Noble Señora
 
+[.salutation]
 Querida hermana según la alta vocación de la gracia,
 
 Aunque me siento débil y cansado con respecto al cuerpo,
@@ -1375,11 +1409,14 @@ No ofreceré ninguna disculpa; escribo con sencillez tal como fluye de la pluma.
 Deseo saludarte de nuevo a ti y a toda tu noble familia en el nombre de Jesús,
 y por gracia permanezco como,
 
+[.signed-section-closing]
 Tu débil consiervo en el Señor.
 
+[.alt.centered]
 === Carta 14
 
-Querido hermano en la gracia de Jesús.
+[.salutation]
+Querido hermano en la gracia de Jesús,
 
 Veré si tengo tiempo y capacidad para escribir unas
 pocas palabras en respuesta a tu pregunta,
@@ -1408,18 +1445,18 @@ Lo que yo acabo de llamar más adecuadamente "`las persuasiones del Padre`",
 también podría llamarlo con propiedad, creer en Jesús;
 porque el Padre nos persuade hacia el Hijo.
 Sin embargo, la fe en Cristo tiene sus grados.
-Al principio es un '`venir a Jesús`' (Juan 6:35), es decir, con hambre y deseo,
+Al principio es un '`__venir a Jesús__`' (Juan 6:35), es decir, con hambre y deseo,
 tal como he dicho con respecto a las persuasiones del Padre.
-Después, es un '`recibir a Jesús`' (Juan 1:12), lo cual no puede ocurrir,
+Después, es un '`__recibir a Jesús__`' (Juan 1:12), lo cual no puede ocurrir,
 a menos que la voluntad sincera del alma deje de una vez el mundo, el pecado y el yo.
 Al avanzar, la fe es un '`permanecer en Jesús`' (Juan 15) con inclinación ferviente,
 lo cual podría ser llamado, retirarse al interior,
 o unirse a Él (1 Corintios 6:17). Y así, al permanecer y caminar en Jesús,
 somos cada vez más arraigados y cimentados en Él (Colosenses 2:7); lo cual, sin embargo,
 no se cumple sin aflicciones y pruebas.
-Finalmente, la fe es '`un habitar de Cristo en el alma,
-y del alma en Cristo`' (Efesios 3:17; Juan 17:23),
-y llegar a ser uno con Él. Si te remites y consideras los pasajes citados,
+Finalmente, la fe es '`__un habitar de Cristo en el alma,
+y del alma en Cristo__`' (Efesios 3:17; Juan 17:23),
+y __llegar a ser uno con Él.__ Si te remites y consideras los pasajes citados,
 tal vez puedas obtener más luz sobre el tema.
 
 Puedes darte cuenta de que yo no considero la fe simplemente como un acto del entendimiento,
@@ -1450,7 +1487,7 @@ Por lo general se entiende el libre albedrío, como la voluntad de querer lo que
 y la capacidad de hacer lo que es bueno; y en este sentido,
 por naturaleza nadie tiene libre albedrío. Pero si por libre
 albedrío entendemos la capacidad de dirigir libremente nuestra
-voluntad para elegir el bien o el mal que se nos presenta,
+voluntad para elegir el bien o el mal que _se nos presenta,_
 entonces no sólo todo hombre tiene libre albedrío, sino también el diablo mismo.
 Ahora bien, el hombre no posee naturalmente luz,
 ni nada a lo que su voluntad sea capaz de volverse, sin embargo,
@@ -1459,7 +1496,7 @@ pero no es capaz, ni quiere salir de ahí. Es cierto, que en esta condición,
 la luz brilla a través de Cristo, y cuando se ofrece a sí misma a un hombre,
 entonces su voluntad es libre de abrir la ventana de su corazón o no.
 Pero el hombre no es capaz de hacer esto por naturaleza, sino por la misericordia de Dios.
-Digo, puede hacerlo, pero no quiere;
+Digo, _puede_ hacerlo, pero no quiere;
 porque la luz le causa dolor y por ese motivo la aborrece.
 Por lo tanto, Dios no sólo le ofrece luz y gracia,
 sino que también le da un buen impulso e inclinación a la voluntad,
@@ -1525,10 +1562,13 @@ especialmente porque escribo de prisa.
 ¡Que el Señor te bendiga y fortalezca, especialmente en el hombre interior!
 Recuérdame también. Permanezco,
 
+[.signed-section-closing]
 Tuyo en la debilidad, etc.
 
+[.alt.centered]
 === Carta 15
 
+[.salutation]
 Para+++_____+++,
 
 Me resulta cada vez más evidente,
@@ -1589,14 +1629,16 @@ que Jesús visite, refresque y fortalezca su corazón con Su gracia y amor,
 para que su vejez sea en esta vida una infancia y preludio de la vida eterna.
 ¡Amén. Jesús!
 
+[.alt.centered]
 === Carta 16
 
+[.salutation]
 Muy querida y muy estimada hermana en la gracia de Dios,
 
 Tus dos cartas han llegado a salvo.
 Por el contenido de ellas, me he enterado y considerado con mucha compasión,
-tu estado de aflicción y tentación, y he presentado tu condición delante del Señor. Él,
-el Señor, puede ayudarte; no debes esperar ayuda de ti misma,
+tu estado de aflicción y tentación, y he presentado tu condición delante del Señor.
+__Él,__ el Señor, puede ayudarte; no debes esperar ayuda de ti misma,
 ni de ninguna otra criatura, ni de ningún objeto particular,
 sino únicamente de Él. Confieso que tus pruebas son severas y dolorosas;
 pero conserva tu valor, no pierdas tu confianza.
@@ -1647,7 +1689,7 @@ Esto sería de tal beneficio para ti, que compensaría diez veces tu tropiezo;
 y el Señor tiene esto en mente y lo espera de ti,
 al ser Su intención llevarte a tal descubrimiento y confesión.
 
-Aprende de esto, que tu felicidad o infelicidad no depende de la casa,
+Aprende de esto, que tu felicidad o infelicidad no depende de _la casa,_
 sino del estado de tu mente.
 Cuando el interior está bien, todo está bien.
 Debes tener una opinión demasiado buena de ti misma
@@ -1749,10 +1791,13 @@ desde lo profundo de mi alma, que te guíe y te bendiga, y que haga que lo pueda
 para que lo ames y te encomiendes a Él sin reservas.
 Amén.
 
+[.signed-section-closing]
 Te saludo con fraternal afecto y por gracia permanezco, etc. etc.
 
+[.alt.centered]
 === Carta 17
 
+[.salutation]
 Querido hermano,
 
 En el supuesto de que todavía estás en N+++_____+++,
@@ -1780,11 +1825,11 @@ y el amor al yo es ciertamente la causa de ello.
 Pero, ¿por qué estás tan asombrado ante tal descubrimiento?
 ¿Acaso no sabías que eras un hijo de Adán amante de ti mismo, como yo y como otros?
 ¿Deberíamos entristecernos al hacer tal descubrimiento,
-o más bien deberíamos entonar un Te Deum laudamus^
-footnote:[Te Deum laudamus, "`A ti Dios, te alabamos`".],
+o más bien deberíamos entonar _un Te Deum laudamus_,^
+footnote:[__Te Deum laudamus,__ "`A ti Dios, te alabamos`".]
 porque el Señor nos ha concedido un favor tan especial,
 como es el conocimiento de nosotros mismos?
-Nadie puede entonar más alegremente un Te Deum,
+Nadie puede entonar más alegremente un __Te Deum,__
 que aquel que se conoce y se desprecia a sí mismo.
 
 Dices en tu última carta,
@@ -1804,8 +1849,10 @@ Que este sea el tema en el que meditemos, del que hablemos y cantemos,
 y el único en el que nos regocijemos.
 ¡Amén!
 
+[.alt.centered]
 === Carta 18
 
+[.salutation]
 Muy estimada y querida hermana en Jesús, el Espíritu del cual esté con tu espíritu,
 
 He recibido debidamente tu muy apreciada carta,
@@ -1836,10 +1883,12 @@ es lo que generalmente impulsa a los hombres a escuchar la gracia que convierte;
 y el Espíritu de Dios emplea a lo largo de la Biblia incentivos como éstos,
 porque el hombre caído es incapaz e insensible a cualquier otro.
 Y no sólo eso,
+sino que recuerdo bien haber leído--lo que ahora
 // lint-disable invalid-characters
-sino que recuerdo bien haber leído--lo que ahora encuentras en Bernière`'s Hidden Life^
+encuentras en __Bernière`'s Hidden Life--__^
 // lint-disable invalid-characters
-footnote:[La Vida Oculta de Bernière.]--que no debíamos
+footnote:[La Vida Oculta de Bernière.]
+que no debíamos
 desear perfección porque fuera un estado muy exaltado,
 sino porque era la voluntad de Dios que la alcanzáramos.
 Han pasado cerca de treinta años desde que leí esto en francés,
@@ -1881,10 +1930,13 @@ un sacrificio vivo al Señor en Su presencia.
 ¡Qué Él sea tu vida, tu paz, tu todo, en toda circunstancia interna y externa!
 Permanezco a través de la gracia,
 
+[.signed-section-closing]
 Con tierno afecto, tu agradecido hermano.
 
+[.alt.centered]
 === Carta 19
 
+[.salutation]
 Muy estimado hermano en la gracia de Jesús,
 
 Aunque tenemos poca correspondencia, puedo decir en sencillez delante de Dios,
@@ -2044,8 +2096,10 @@ Continúo en un estado débil y con poca capacidad para escribir,
 y esta debilidad ahora me indica que debo dejar de escribir.
 Permanezco a través de la gracia, etc.
 
+[.alt.centered]
 === Carta 20
 
+[.salutation]
 Muy querida hermana en Jesús, el crucificado y exaltado Redentor,
 
 Desde hace unos días me he sentido impulsado a escribirte,
@@ -2082,7 +2136,7 @@ cuánto más te esfuerzas por realizar algo bueno por ti misma, más faltas come
 Ya hay un fin para toda obra del yo!
 
 Tú dices que no haces nada bueno.
-Más bien deberías decir: "`No veo que haga algo bueno`",
+Más bien deberías decir: "`No __veo__ que haga algo bueno`",
 porque el sutil amor al yo no está satisfecho con la práctica de la virtud;
 pero esta mano izquierda de iniquidad quiere también
 saber y ver lo que la mano derecha hace,
@@ -2174,13 +2228,13 @@ no es ni contrario a la experiencia, ni a las Sagradas Escrituras que dicen:
 Romanos 8:3) Tal vez,
 también conozcas las líneas que escribí hace algún tiempo sobre este tema:
 
+[verse]
+____
 Una vez cometí pecado, con placer y con agrado;
-
 Pero ahora debo sufrir el pecado, con dolor y desagrado.
-
 Este sufrimiento es saludable; pero cuán doloroso es,
-
 cuando el pecado, por el pecado dentro de nosotros, condenado y asesinado es.
+____
 
 Pero que pienses que caes en pecado a cada momento,
 se debe en parte por las tinieblas que cubren tu camino en este momento;
@@ -2212,7 +2266,7 @@ tanto por el tiempo como por la eternidad.
 Destierra todo cuidado con respecto a ti misma, de modo que ya no te ocupes de ti,
 aunque sepas que actuando así te hundirías en el infierno; porque, ¿cuál es tu valor?,
 ¿qué depende de ti?
-Asiente a todo menos al pecado.
+_Asiente a todo menos al pecado._
 
 Si a tu mente se le ocurre,
 que actualmente eres o puedes convertirte en el ridículo
@@ -2389,14 +2443,23 @@ Sólo se paciente y valiente en el nombre de Dios, querida hermana,
 en el amor y en el sufrimiento; y pase lo que pase,
 permanezco y permaneceré por la gracia divina como,
 
+[.signed-section-closing]
 Tu afectuoso hermano en Jesús, y compañero de tribulación en Cristo.
+
+[.postscript]
+====
 
 P.D. Guarda esta carta para ti, porque puede ser de poca utilidad para tus amigos.
 
+====
+
+[.alt.centered]
 === Carta 21
 
-A la misma persona
+[.blurb]
+==== A la misma persona
 
+[.salutation]
 ¡Qué el Jesús una vez crucificado pero ahora exaltado te bendiga!
 Muy amada hermana en Cristo,
 
@@ -2506,7 +2569,7 @@ Y así, el Señor sabe cómo preservar lo que es Suyo en ti; no obstante,
 todo debe ser ofrecido--vida y salud, cuerpo y alma, disfrute, placer, dones y virtudes,
 e incluso, la querida imagen de la santidad misma.
 
-Te digo que eres un sacrificio a la justicia y amor de Dios, no para Su ira;
+Te digo que eres un sacrificio a la _justicia_ y _amor_ de Dios, no para Su _ira;_
 ésta no vendrá sobre ti, como has escrito a veces.
 La ira de Dios, propiamente dicho, sólo es derramada sobre lo impío;
 Su justicia mezclada con amor, es lo que purifica a Sus hijos.
@@ -2516,7 +2579,7 @@ el pasaje y mira si eso puede llamarse ira.
 
 Mantente, tanto como te sea posible, en la paciencia.
 La amarga copa de aflicción pronto será bebida.
-Tú agradas a Dios cuando sufres por Su causa.
+_Tú agradas a Dios cuando sufres por Su causa._
 ¿No es esta una razón suficiente para fortalecerte en la paciencia?
 Sí, le doy gracias a Dios con todo mi corazón,
 por haberte llamado y haberse dignado en corregirte tan estrictamente,
@@ -2558,10 +2621,13 @@ para él. Dios nos dará gracia para estar atentos uno del otro.
 
 Ánimo, mi hermana, y ama a Jesús y Su cruz, en quien soy,
 
+[.signed-section-closing]
 Tu afectuoso compañero de labor y hermano.
 
+[.alt.centered]
 === Carta 22
 
+[.salutation]
 Querido y estimado hermano en la gracia de Jesús,
 
 Tengo delante de mí tu carta del 9 de Marzo,
@@ -2579,12 +2645,28 @@ de siete formas distintas, y la experiencia enseña cada vez,
 aunque con una diferencia notable, que al hacer esto se produce toda virtud y todo bien.
 Lo hacemos:
 
-+++.+++ En la forma como Lo buscamos.
-+++.+++ Olvidando nuestros sentimientos.
-+++.+++ Por nuestra propia experiencia.
-+++.+++ En la sencillez.
-+++.+++ En la contemplación. . En la rendición.
-+++.+++ Esencialmente.
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ En la forma como Lo buscamos.
+
+[.numbered]
+2+++.+++ Olvidando nuestros sentimientos.
+
+[.numbered]
+3+++.+++ Por nuestra propia experiencia.
+
+[.numbered]
+4+++.+++ En la sencillez.
+
+[.numbered]
+5+++.+++ En la contemplación. . En la rendición.
+
+[.numbered]
+6+++.+++ Esencialmente.
+
+====
 
 Según el estado de cada uno en particular y la guía divina,
 porque cada uno debe actuar según su estado y según la forma en la que es guiado,
@@ -2676,8 +2758,8 @@ adorna a la novia con un ornamento tras otro, y luego dice:
 "`He aquí que tú eres hermosa, amiga mía`", ella no se mira a sí misma sino que responde:
 "`He aquí que tú eres hermoso, amado mío`". (Cantares 1:15-16)
 
-III.
-En el camino de santificación, el individuo debe tener como única mira a Dios en Cristo,
+III. En el camino de santificación,
+el individuo debe tener como única mira a Dios en Cristo,
 y no mirarse a sí mismo, y esto debe ser hecho de manera práctica.
 Muchas personas bien intencionadas,
 que han sentido un poco de la gracia de Dios en Cristo,
@@ -2736,7 +2818,7 @@ a fin de unirse a Dios y permanecer cerca de Él. Así pues,
 el alma no tiene otra cosa más que hacer en este estado,
 que seguir en sencillez esta persuasión interna e inclinación central,
 y por medio de esto aferrarse a Dios, tratar de continuar recogida en Su presencia,
-y con un ojo creyente, manso y humilde, mirarlo sólo a Él y no mirarse a sí misma.
+y con un ojo creyente, manso y humilde, _mirarlo sólo a Él y no mirarse a sí misma._
 Así, mediante este sencillo estado de recogimiento interior,
 el alma será mejor preservada de todo mal,
 se convertirá en el recipiente de virtudes fundamentales,
@@ -2851,10 +2933,13 @@ conforme a la plena extensión de Su gracia en nosotros y con toda nuestra fidel
 En cada prueba no esperemos nada de nosotros mismos, sino todo de Su infinita bondad.
 Amén. ¡Qué Él mismo lo realice!
 
+[.signed-section-closing]
 Acuérdate de mí como tu débil hermano.
 
+[.alt.centered]
 === Carta 23
 
+[.salutation]
 Queridos hermanos, hermanas y amigos en la gracia de Dios, cuyos nombres,
 ruego que se encuentren escritos en el libro de la vida:
 
@@ -3048,7 +3133,7 @@ por el conocimiento en el interior de Aquel que nos ha llamado a esta gloria! (2
 Por lo tanto, mis compañeros de llamado,
 si deseamos ser completamente redimidos y santificados,
 vivir pacíficamente y morir felizmente,
-debemos convertirnos en habitantes de nuestros propios corazones y en compañeros de Dios.
+debemos convertirnos en _habitantes de nuestros propios corazones y en compañeros de Dios._
 Jesús nos ha abierto ese camino nuevo y vivo con Su sangre, de modo que el amor eterno,
 con sus atracciones e influencias,
 puede acercarse mucho a nosotros ahora y nosotros
@@ -3100,9 +3185,9 @@ y no malgasten el corto tiempo y los nobles poderes de la
 gracia en cosas innecesarias de naturaleza secundaria.
 No sean tan cuidadosos de su dinero,
 como lo son de su tiempo y de la gracia que se les ha confiado.
-Prosigamos directamente a la meta; pronto anochecerá. Una cosa es necesaria, la cual es,
+Prosigamos directamente a la meta; pronto anochecerá. _Una cosa es necesaria, la cual es,
 que muramos a nosotros mismos y a toda cosa creada,
-y vivamos para Dios en espíritu y en verdad.
+y vivamos para Dios en espíritu y en verdad._
 Esto es lo que tanto las Escrituras como la gracia en el corazón nos demandan;
 y esto es lo único en lo que podemos encontrar salud y paz,
 tanto en la vida como en la muerte.
@@ -3156,7 +3241,7 @@ en deliciosa unanimidad y unidad!
 De esta manera, el amor eterno se deleitará en morar entre nosotros y en bendecirnos,
 como el rocío que cae desde el Hermón sobre las montañas de Sion;
 y nosotros experimentaremos más profundamente,
-las desconocidas bendiciones que se disfrutan en la verdadera comunión de los santos.
+las desconocidas bendiciones que _se disfrutan en la verdadera comunión de los santos._
 Viendo que hemos echado fuera al mundo y que el mundo nos ha echado fuera,
 démonos mutuamente la mano;
 y como verdaderos extranjeros y peregrinos avancemos fraternal y valientemente,
@@ -3165,13 +3250,17 @@ hacia la feliz tierra de la comunión interna y eterna con
 Dios en Cristo Jesús. ¡Fiel es el que nos ha llamado,
 el cual también lo hará!
 
+[.signed-section-closing]
 En Él permanezco por la gracia, etc.
 
+[.signed-section-context-close]
 Mülheim, 30 de septiembre de 1734
 
+[.alt.centered]
 === Carta 24
 
-Una Carta con Ideas del Autor Respecto al Matrimonio
+[.blurb]
+==== Una Carta con Ideas del Autor Respecto al Matrimonio
 
 Aunque con respecto al matrimonio no tengo experiencia,
 y no tengo un entendimiento o revelación particular de este asunto, aun así,
@@ -3281,11 +3370,13 @@ su preservación y purificación (1 Corintios 7:28);
 y finalmente, que es un estado que no los acompaña al próximo mundo,
 sino que termina en el presente (Mateo 22:30).
 
+[.alt.centered]
 === Carta 25
 
-Consejo Cristiano a una persona que tenía muchas dudas
-y recelos en su mente con respecto al matrimonio.
+[.blurb]
+==== Consejo Cristiano a una persona que tenía muchas dudas y recelos en su mente con respecto al matrimonio.
 
+[.salutation]
 Querida amiga y hermana en Cristo,
 
 Me has pedido que te escriba algo con respecto al tema que me mencionaste.
@@ -3369,9 +3460,11 @@ que estés y en cualquier estado en que te encuentres,
 tanto ahora como para siempre.
 ¡Amén!
 
+[.alt.centered]
 === Carta 26
 
-A los habitantes despiertos de la ciudad de Meurs
+[.blurb]
+==== A los habitantes despiertos de la ciudad de Meurs
 
 Sus deseos de familiarizarme con sus nombres,
 y el deseo de sus corazones de pertenecer enteramente al Señor,
@@ -3467,11 +3560,14 @@ Amén. ¡Así sea!
 Con este deseo los saludo colectiva e individualmente delante de Su rostro,
 y permanezco por gracia como,
 
+[.signed-section-closing]
 El fiel, débil y agradecido hermano de ustedes.
 
-Amonestación de advertencia contra las trampas y tentaciones del enemigo de las almas.
-
+[.alt.centered]
 === Carta 27
+
+[.blurb]
+==== Amonestación de advertencia contra las trampas y tentaciones del enemigo de las almas.
 
 1+++.+++ Amemos, estimemos y usemos las Sagradas Escrituras o la Biblia,
 según el estado y circunstancias de nuestras almas.
@@ -3563,13 +3659,16 @@ El que peca, no le ha visto, ni le ha conocido.
 Hijitos, no dejen que nadie los engañe. El que hace justicia es justo, como Él es justo.
 (1 Juan 3:5-7)
 
+[.alt.centered]
 === Carta 28
 
-Carta de ánimo dirigida a unas pocas personas despertadas,
-ante la perspectiva del peligro de persecución.
+[.blurb]
+==== Carta de ánimo dirigida a unas pocas personas despertadas, ante la perspectiva del peligro de persecución.
 
-"`No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino`".
+[.centered]
+__"`No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino`".__
 
+[.salutation]
 Queridos hermanos en la gracia de Dios,
 
 ¿No está establecido en el pacto que hemos hecho con el Señor Jesús, ¡mis muy amados!,
@@ -3710,6 +3809,8 @@ en la sencillez del amor.
 el Dios de Jacob es nuestro refugio!
 Selah.
 
+[.signed-section-closing]
 En su gracia permanezco como,
 
+[.signed-section-signature]
 Un humilde hermano y siervo de ustedes.
