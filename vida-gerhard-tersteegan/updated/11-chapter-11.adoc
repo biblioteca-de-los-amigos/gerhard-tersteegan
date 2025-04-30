@@ -1,7 +1,8 @@
 == El Excelente Camino del Amor Verdadero
 
-[.blurb]
-=== "`Dios es amor; y el que permanece en amor, permanece en Dios, y Dios en él.`" 1 Juan 4:16
+[.chapter-subtitle--blurb]
+"`Dios es amor; y el que permanece en amor,
+permanece en Dios, y Dios en él.`" 1 Juan 4:16
 
 [.alt.centered]
 === I. El Ejercicio del Amor.

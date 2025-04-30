@@ -1,7 +1,9 @@
+[#chap8, short="La Verdadera Sabiduría"]
 == La Verdadera Sabiduría; o La Comunión con Dios y con Nosotros Mismos
 
-[.blurb]
-=== "`Piensa que Dios y tú mismo están solos en el mundo; y así poseerás gran paz de corazón`". --Thomas a Kempis
+[.chapter-subtitle--blurb]
+"`Piensa que Dios y tú mismo están solos en el mundo;
+y así poseerás gran paz de corazón`". --Thomas a Kempis
 
 [.alt.centered]
 === I. La Verdadera Sabiduría
