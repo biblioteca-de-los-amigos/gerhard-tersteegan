@@ -1,3 +1,4 @@
+[#chap9, short="Breves Instrucciones Sobre Cómo Buscar a Dios"]
 == Breves Instrucciones Sobre Cómo Buscar a Dios y la Luz de Su Rostro
 
 [.blurb]
@@ -145,7 +146,8 @@ y también será cada vez más capaz de encontrar sustancialmente
 a este todo suficiente y sumamente amable Bien,
 y de contemplar Su beatificante rostro.
 
-=== Con referencia a esto, añadiré las siguientes importantes observaciones:
+[.offset]
+__Con referencia a esto, añadiré las siguientes importantes observaciones:__
 
 _Primera._
 Debido a que los objetos y ocupaciones externas--especialmente mientras

@@ -1,3 +1,4 @@
+[#chap14, short="El Amor de Cristo que nos Constriñe"]
 == Un Sermón sobre El Amor de Cristo que nos Constriñe.
 
 [.chapter-subtitle--blurb]
@@ -188,8 +189,8 @@ sufrir tanto y vivir de la manera que vivieron,
 el santo apóstol Pablo nos responde en el nombre de todos ellos,
 con las palabras de nuestro texto:
 
-[.blurb]
-=== "`El amor de Cristo nos constriñe`". 2 Corintios 5:14
+[.centered]
+"`El amor de Cristo nos constriñe`". 2 Corintios 5:14
 
 Conforme a la dirección que se nos da en estas palabras divinamente inspiradas,
 consideremos, con la ayuda divina, en esta presente ocasión:
