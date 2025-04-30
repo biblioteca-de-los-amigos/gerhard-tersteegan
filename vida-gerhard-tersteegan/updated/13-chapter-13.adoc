@@ -1,5 +1,6 @@
 == Sobre la Fe y la Justificación
 
+[.chapter-subtitle--blurb]
 Muchos poseen la palabra de verdad, pero no tienen la verdad de la palabra.
 
 La fe es una convicción interna de la verdad de cosas invisibles y futuras,
@@ -46,7 +47,7 @@ se encomienda y se entrega a Él con esta fe,
 a la que la justificación está inseparablemente conectada.
 Sin embargo, Dios le da la seguridad de su perdón, en un mayor o menor grado,
 más temprano o más tarde, según sea Su complacencia, y según sea útil para el alma.
-No obstante, no sólo es necesario creer una vez, sino sin interrupción; por lo tanto,
+No obstante, no sólo es necesario creer una vez, sino _sin interrupción;_ por lo tanto,
 debemos estar cimentados en la fe, debemos mantenernos en la fe,
 a través de muchos cambios, cruces y pruebas,
 y así nuestra justificación será más confirmada y más gloriosa (1 Pedro 1:6-7;
@@ -56,7 +57,7 @@ La justificación, según las Escrituras y la experiencia, es propiamente cuádr
 lo cual, al ser rara vez distinguido suficientemente,
 es la causa de muchos malentendidos y controversias.
 
-La primera Justificación toma lugar externamente y es, sin embargo,
+_La primera Justificación_ toma lugar externamente y es, sin embargo,
 el fundamento de todas las demás; a saber, cuando Cristo como nuestro fiador,
 se presentó delante del severo tribunal de la insultada Majestad en el cielo,
 durante Sus sufrimientos en el Getsemaní y en la cruz,
@@ -71,8 +72,8 @@ Ahora bien, así como Adán no cayó únicamente por sí mismo,
 pues al ser el gran progenitor de la raza humana, nuestra cabeza común,
 todos sus descendientes cayeron con él también;
 tampoco Cristo se presentó únicamente por Sí mismo.
-Él fue nuestro representante general, la planta de renombre, el hombre Zemach^
-footnote:["`El varón cuyo nombre es el Renuevo`" Zacarías 6:12-13.],
+Él fue nuestro representante general, la planta de renombre, el hombre Zemach,^
+footnote:["`El varón cuyo nombre es el Renuevo`" Zacarías 6:12-13.]
 la cabeza patriarcal de todos los redimidos; y así como Él se levantó justificado,
 todos los redimidos fueron justificados con Él. Al ser justificado Él,
 quien es nuestro Mediador y Fiador, así también nosotros.
@@ -85,10 +86,11 @@ para que nosotros fuésemos hechos justicia de Dios en Él. (2 Corintios 5:21)
 En virtud de esta justificación en nuestro lugar,
 Dios pasa por alto el tiempo de ignorancia (Hechos 17:30),
 pero ahora les manda a todos los hombres en todo lugar que se arrepientan,
-y le ofrece a todo hombre, a través de la resurrección de Cristo, fe y justificación^
+y le ofrece a todo hombre, a través de la resurrección de Cristo, fe y justificación.^
 footnote:["`...por cuanto ha establecido un día en el cual juzgará al mundo con justicia,
 por aquel varón a quien designó,
-dando fe a todos con haberle levantado de los muertos.`"]. Él externamente
+dando fe a todos con haberle levantado de los muertos.`"]
+Él externamente
 les suplica e invita a los hombres por medio de sus mensajeros,
 e internamente por medio de Su Espíritu, diciendo:
 "`Reconciliaos con Dios`". "`Arrepentíos, porque el reino de los cielos se ha acercado`".
@@ -109,7 +111,7 @@ mientras puedas,
 y ama Al que te amó primero y te ha dado a conocer este gran misterio de Su voluntad,
 en el que incluso los ángeles anhelan mirar!
 
-La segunda justificación toma lugar en el corazón
+_La segunda justificación_ toma lugar en el corazón
 y conciencia de un humilde y cargado pecador,
 que viene a Cristo con un deseo ardiente de misericordia;
 mientras que eso que ha sido cumplido externamente y para él,
@@ -173,7 +175,7 @@ requiere justificación. Nuestras mejores vestiduras deben
 ser lavadas y emblanquecidas en la sangre del Cordero.
 (Apocalipsis 7:14)
 
-La tercera justificación de la que hablan las Sagradas Escrituras,
+_La tercera justificación_ de la que hablan las Sagradas Escrituras,
 es principalmente esa por la que somos reconocidos
 como justos ante la vista de los demás,
 y no es otra cosa que santificación,
@@ -250,7 +252,7 @@ Cristo no es ministro de pecado.
 No te conocen los que se apropian así de Tus méritos y de Tu justicia,
 mientras pecan y hacen uso de ellos como de un manto para sus pecados.
 
-La cuarta justificación es la que deseo que yo y los demás conozcamos,
+_La cuarta justificación_ es la que deseo que yo y los demás conozcamos,
 más por experiencia que por una simple descripción de ella.
 Puede ser llamada la justificación inherente y final
 ante el tribunal del Beneplácito divino.
@@ -259,7 +261,7 @@ y la santificación fluyen juntas en dicho Beneplácito,
 y alcanzan su plenitud en Él. El fin indiscutible de todos
 los caminos de Dios con el hombre caído es,
 que Dios, a través de la restauración del hombre,
-puede ser glorificado nuevamente y convertirse en Todo en Todos.
+puede ser glorificado nuevamente y convertirse en _Todo en Todos._
 
 En la segunda y tercera justificación y santificación, el hombre aparece como culpable,
 avergonzado y completamente degradado; mientras que, por el contrario,

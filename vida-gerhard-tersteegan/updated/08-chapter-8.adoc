@@ -1,8 +1,9 @@
-== La Verdadera Sabiduría o La Comunión con Dios y con Nosotros Mismos
+== La Verdadera Sabiduría; o La Comunión con Dios y con Nosotros Mismos
 
-"`Piensa que Dios y tú mismo están solos en el mundo;
-y así poseerás gran paz de corazón`". --Thomas a Kempis
+[.blurb]
+=== "`Piensa que Dios y tú mismo están solos en el mundo; y así poseerás gran paz de corazón`". --Thomas a Kempis
 
+[.alt.centered]
 === I. La Verdadera Sabiduría
 
 Nada es por naturaleza más desconocido para nosotros que Dios y nosotros mismos.
@@ -77,7 +78,7 @@ no les quedan más que imágenes vacías y perturbadoras!
 En este estado lamentablemente ciego e inconsciente, pasa su vida casi todo el mundo:
 grandes y pequeños, ricos y pobres, instruidos e iletrados.
 
-Incluyo también a los instruidos de este mundo^
+Incluyo también a los instruidos de este mundo;^
 footnote:[Aquí se hace referencia a aquellos sabios,
 que mediante la árida especulación y los fecundos esfuerzos de su razón pervertida,
 pretenden adquirir sin la iluminación divina, el conocimiento de Dios y Su verdad,
@@ -87,7 +88,8 @@ que no sirven para nada en relación con lo principal.
 Sin embargo, la verdadera erudición y los eruditos que son al mismo tiempo piadosos,
 mansos y humildes de corazón, deben ser altamente estimados.
 Véase Kempis, libro I, cap.
-2 y 3.]; es decir,
+2 y 3.]
+es decir,
 a los que entre ellos se destacan de otros por su dedicación
 al estudio de las cosas espirituales y divinas.
 Éstos, en su mayoría, no son más sabios,
@@ -149,7 +151,7 @@ con tanta pérdida de tiempo, para no conocer más que a Cristo y a éste crucif
 
 Pero para acercarnos un poco más al punto.
 ¡Cuán lejos y ajenos a Dios y a sus propios corazones,
-están la mayor parte de los que son llamados! ¡Cuán mal vigilamos nuestros propios corazones!
+están la mayor parte de los que son _llamados!_ ¡Cuán mal vigilamos nuestros propios corazones!
 ¡Qué poco nos quedamos en casa para para estar en compañía de Dios y de nosotros mismos,
 para dejar de lado todo lo demás, y hacer de esto nuestro única,
 constante y principal ocupación! ¡Oh,
@@ -199,8 +201,8 @@ utilizan una variedad de medios externos y devociones externas.
 Ellos oran, escuchan, leen, meditan, se asocian con gente buena y cosas por el estilo;
 todo lo cual sería bueno y provechoso,
 si tales ejercicios sólo fueran empleados en la manera y con el fin apropiados.
-Pero muchos ponen tanto énfasis en los medios,
-que pierden de vista el fin y lo descuidan por completo.
+Pero muchos ponen tanto énfasis en los _medios,_
+que pierden de vista el _fin_ y lo descuidan por completo.
 Porque, aunque Dios ha instituido y nos ha concedido tan excelentes ayudas,
 para que por medio de ellas dejemos de entretener nuestros
 sentidos con cosas externas y nos volvamos a nosotros mismos,
@@ -274,6 +276,7 @@ me alegraría que cada lector los considerara y utilizara
 como si sólo le concernieran a él;
 y al actuar así, ciertamente nos irá bien a todos.
 
+[.alt.centered]
 === II. Consejos para el Alma
 
 ¡Por tanto, despídete eternamente alma mía, y tú que lees esto,
@@ -363,7 +366,7 @@ Por amor a Él, niega tu propia voluntad, tu amor al yo,
 y la complacencia del yo en todas las cosas.
 En pocas palabras, niégate a ti mismo dondequiera que aparezcas.
 
-¡Oh, cuánto de este yo encontrarás,
+¡Oh, cuánto de este _yo_ encontrarás,
 cuando te hayas acostumbrado a permanecer cerca de ti mismo y cerca de tu Dios!
 
 No le prestes mucha atención a tu cuerpo, no tiene valor alguno, es alimento de gusanos.
@@ -480,7 +483,7 @@ sino esfuérzate por ser bueno también. Ama también
 a los que no caminan en todas las cosas como tú,
 deja que cada uno siga su propio camino.
 ¿Qué a ti?
-Sigue a Jesús.
+_Sigue a Jesús._
 
 No pienses mal de tu hermano, no juzgues, no te apresures,
 haz la mejor interpretación de todo.
@@ -528,6 +531,7 @@ y así como su vida aquí estaba escondida con Cristo en Dios, así también,
 cuando Cristo su vida se manifieste, él también será manifestado con Él en gloria.
 (Colosenses 3:3-4)
 
+[.alt.centered]
 === III. El Ejemplo de Cristo
 
 Aquel que contempla con mente devota y tranquila la vida y conducta de Jesucristo,

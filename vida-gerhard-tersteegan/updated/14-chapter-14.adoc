@@ -1,9 +1,12 @@
 == Un Sermón sobre El Amor de Cristo que nos Constriñe.
 
+[.chapter-subtitle--blurb]
 Predicado en Mülheim, Junto al Rhur, 14 de octubre de 1751
 
-"`El amor de Cristo nos constriñe`". --2 Corintios 5:14
+[.blurb]
+=== "`El amor de Cristo nos constriñe`". --2 Corintios 5:14
 
+[.salutation]
 Mis queridos oyentes,
 
 Si deseamos ver una verdadera representación de nosotros mismos,
@@ -27,7 +30,7 @@ Y entre esta multitud de huesos muertos nos encontraríamos a nosotros mismos ta
 en tanto continuemos en nuestro estado natural.
 
 Estos huesos no le pudieron parecer a Ezequiel más miserables, secos y desdichados,
-que el aspecto que presentan nuestros corazones, mientras nos aferramos a la tierra,
+que el aspecto que presentan _nuestros_ corazones, mientras nos aferramos a la tierra,
 estando vacíos y separados de la vida que viene de Dios,
 y desprovistos del poder vivo de la piedad.
 ¡Quién habría podido pensar, al contemplar esos huesos secos que vio el profeta,
@@ -185,14 +188,22 @@ sufrir tanto y vivir de la manera que vivieron,
 el santo apóstol Pablo nos responde en el nombre de todos ellos,
 con las palabras de nuestro texto:
 
+[.blurb]
 === "`El amor de Cristo nos constriñe`". 2 Corintios 5:14
 
 Conforme a la dirección que se nos da en estas palabras divinamente inspiradas,
 consideremos, con la ayuda divina, en esta presente ocasión:
 
-I+++.+++ El amor de Jesucristo, y
+[.numbered-group]
+====
 
-II. El divino poder de dicho amor.
+[.numbered]
+1+++.+++ El amor de Jesucristo, y
+
+[.numbered]
+2+++.+++ El divino poder de dicho amor.
+
+====
 
 "`¡Bendito Salvador, mira a tu siervo,
 que en este momento se atreverá a testificar de Tu maravilloso amor.
@@ -217,7 +228,8 @@ como el amor con el que Él nos ha amado tanto en el tiempo como en la eternidad
 Cristo es quien inicia amando, por lo tanto, en nuestra presente meditación,
 debemos comenzar también considerando Su amor hacia nosotros.
 
-1+++.+++ Cristo nos ama con un amor que sobrepasa el más fiel y ferviente afecto de un amigo.
+[.offset]
+_1+++.+++ Cristo nos ama con un amor que sobrepasa el más fiel y ferviente afecto de un amigo._
 
 La amistad entre los hombres consiste en una inclinación libre e interna de corazón,
 por virtud de la cual, el individuo le desea a su amigo la posesión de todo bien,
@@ -289,8 +301,9 @@ Pablo lo consideró desde este punto de vista: "`Cristo me amó`", dice él,
 Así debemos ver el tema, para poder contemplarlo de la manera más ventajosa;
 y así es como Cristo ama a cada uno con un afecto particular.
 
-2+++.+++ Cristo nos ama, y nos ama voluntariamente, con el más compasivo,
-atento e incansable amor maternal.
+[.offset]
+_2+++.+++ Cristo nos ama, y nos ama voluntariamente, con el más compasivo,
+atento e incansable amor maternal._
 
 Cuando un bebé está enfermo, o se cae y se lastima,
 y yace delante de los ojos de la madre llorando y con dolor--en
@@ -377,8 +390,9 @@ esto hace referencia tanto a ustedes como a mí! ¿No deberíamos, por tanto,
 encomendarnos en cuerpo y alma al amor y cuidado maternal de Cristo,
 tanto en el tiempo como en la eternidad?
 
-3+++.+++ Cristo nos ama, y nos ama voluntariamente, con el más tierno,
-ardiente y feliz amor de un esposo.
+[.offset]
+_3+++.+++ Cristo nos ama, y nos ama voluntariamente, con el más tierno,
+ardiente y feliz amor de un esposo._
 
 ¡Oh, sí;
 el amor de Cristo realmente suplica por los corazones de los pobres y perdidos pecadores;
@@ -495,7 +509,7 @@ de lo contrario, a pesar de lo que hablemos y oigamos del amor de Cristo,
 continuaremos en un estado de tinieblas y miseria espirituales.
 
 Es indudable que Cristo lo inicia todo al amarnos primero.
-Cuando, por ejemplo, el amor de Cristo persuade al hombre al arrepentimiento;
+Cuando, por ejemplo, _el amor de Cristo persuade al hombre al arrepentimiento;_
 entonces el Espíritu de amor lo reprende por su injusticia,
 lo convence de la necesidad de arrepentimiento y conversión,
 lo alarma por motivo de sus pecados y por el peligroso estado de su alma.
@@ -577,14 +591,14 @@ Así es como debemos dejar que el amor de Cristo nos constriña al arrepentimien
 y a través del arrepentimiento, al amor.
 Después, de seguro y eventualmente sucederá,
 que el amor de Cristo cubrirá multitud de pecados, de modo que después,
-la persona se avergüenza--como lo expresa el profeta
+la persona _se avergüenza_--como lo expresa el profeta
 (Ezequiel 16:63)--con humilde agradecimiento y confusión,
 cuando el Señor le perdona todos sus pecados y le paga, por decirlo así,
 sólo con Su amor; y también sucede, que aquellos a quienes se les ha perdonado más,
 aman más que otros.
 
-El amor de Cristo también constriñe al alma convertida, a apartarse del pecado,
-del mundo y de todas sus vanidades.
+_El amor de Cristo también constriñe al alma convertida, a apartarse del pecado,
+del mundo y de todas sus vanidades._
 El hombre ya no puede correr con la multitud como antes, sin sentirse restringido.
 ¿Cuál es la razón? ¿Quizás porque teme ser castigado por sus padres, amos o magistrados?
 ¡No!
@@ -664,7 +678,7 @@ Cuando la constante exclamación del alma es:
 "`¡Debo hacer esto o pereceré eternamente!`";
 y luego se entrega así a la negación al yo sin Cristo, en su propia fuerza, ¡ah, sí,
 esa vida es ciertamente cansada!; pero esto también debe ser entendido por experiencia.
-Es cierto, debemos hacerlo, o de lo contrario estaremos perdidos; pero,
+Es cierto, _debemos hacerlo,_ o de lo contrario estaremos perdidos; pero,
 ¿no es ya parte de la condenación actuar siempre por obligación,
 y nunca a partir de un corazón dispuesto?
 ¿Estar siempre forzados y no poder realizarlo nunca?
@@ -688,7 +702,7 @@ Sólo piensen en cómo pueden amar a Cristo,
 cómo pueden amarlo más cariñosamente que nunca,
 y hagan todo para agradar y satisfacer Su amor`".
 
-El amor de Cristo constriñe al creyente al sufrimiento y a través del sufrimiento.
+_El amor de Cristo constriñe al creyente al sufrimiento y a través del sufrimiento._
 Esto suena extraño, y sin embargo es verdad.
 El individuo es con frecuencia colocado tan maravillosa
 e inesperadamente en alguna situación dolorosa,
@@ -745,7 +759,7 @@ cuando la persona está en una situación dolorosa,
 no descendería de la cruz para dejar que la naturaleza carnal respire,
 aunque se le diera la libertad de hacerlo.
 
-El amor de Cristo debe constreñirnos a la santificación. Cuán repulsiva
+_El amor de Cristo debe constreñirnos a la santificación._ Cuán repulsiva
 e impracticable consideran muchas personas su santificación. Vivir
 tan estrictamente como lo indican las Escrituras,
 volverse tan mansas, tan devotas, tan humildes, tan puras,
@@ -793,8 +807,8 @@ cuando dice: "`Si yo hablase lenguas humanas y angélicas, y no tengo amor,
 vengo a ser como metal que resuena...`" Y así continúa hasta el final del capítulo,
 que encontrarán en la primera epístola a los Corintios y que pueden leer en casa.
 
-El amor de Cristo constriñe a toda diligencia, vigilancia y actividad en toda buena obra,
-y durante todo el camino de piedad.
+_El amor de Cristo constriñe a toda diligencia, vigilancia y actividad en toda buena obra,
+y durante todo el camino de piedad._
 Muchos que duermen seguros en el sueño mortal del pecado,
 pueden ser aterrorizados y despertados por el temor y el castigo.
 Las emociones fuertes y las más serias decisiones pueden ser producidas en un hombre,
@@ -831,7 +845,7 @@ cuando se leía o se decía algo bueno, pero que se despertaban inmediatamente,
 cuando se introducía algún tema preferido y de otro tipo.
 ¡Qué vergüenza! ¡Si tuviéramos un poco más de amor por Cristo, no seríamos tan perezosos!
 
-El amor de Cristo constriñe a las buenas obras.
+_El amor de Cristo constriñe a las buenas obras._
 Los eruditos disputan de todas las formas posibles,
 sobre las buenas obras y sus méritos--si son necesarias
 para la salvación y hasta qué punto,
@@ -853,7 +867,7 @@ Incluso, cuando ha hecho mucho, piensa que hasta ahora no ha hecho nada,
 y que ya es hora de empezar.
 Así es como constriñe el amor de Cristo.
 
-El amor de Cristo constriñe a un continuo progreso en la santificación y en la piedad.
+_El amor de Cristo constriñe a un continuo progreso en la santificación y en la piedad._
 También son completamente innecesarias aquellas controversias
 que se entablan sobre la perfección;
 si los mandamientos de Dios pueden ser guardados; si tal estado particular es alcanzable,
@@ -877,7 +891,7 @@ Tú ciertamente ya no le temes al infierno`". "`¡Ah`", replicaría él,
 "`no es ni el infierno ni el cielo lo que me constriñe;
 lo que me constriñe así es el amor de Cristo`".
 
-El amor de Cristo entra voluntariamente en todos nuestros intereses.
+_El amor de Cristo entra voluntariamente en todos nuestros intereses._
 Quiere y debe participar, no sólo en las cosas más grandes,
 sino incluso en las más pequeñas. Todo lo que hacemos,
 en lo que se refiere a nuestra vida natural, por muy grande e importante que parezca,
@@ -913,7 +927,7 @@ de modo que los realizamos de manera infantil, únicamente para Su amor y gloria
 entonces ya no serán un estorbo,
 sino que se convertirán en un verdadero servicio rendido a Dios.
 A esto se refiere el Espíritu Santo cuando dice:
-"`Y todo`"--observen cómo dice todo--"`Y todo lo que hacéis sea de palabra o de hecho,
+"`Y todo`"--observen cómo dice _todo_--"`Y todo lo que hacéis sea de palabra o de hecho,
 hacedlo todo en el nombre del Señor Jesús`". (Colosenses 3:17)
 
 El amor de Cristo con gusto nos mantendrá todo el
@@ -929,7 +943,7 @@ lo único lamentable es que todas esas buenas reglas y máximas se quebranten ta
 No hay mejor regla, norma o precepto, que el amor de Cristo,
 el cual está internamente muy cerca de nosotros.
 
-El amor de Cristo nos guiará como una madre guía a su hijo.
+_El amor de Cristo nos guiará como una madre guía a su hijo._
 Un niño que camina dirigido con cuerdas, es cuidadosamente sostenido y guiado;
 porque aunque camina libre y sin restricciones, aun así,
 si estuviera a punto de correr hacia el lodo, o se temiera que está en peligro,
@@ -940,7 +954,7 @@ por causa de la ignorancia estemos a punto de caer en algo inapropiado o peligro
 deberíamos percibir, como un niño dirigido con cuerdas,
 que algo nos sostiene y nos restringe; a saber, el amor de Cristo.
 
-El amor de Cristo debe constreñirnos y nos constreñirá a orar.
+_El amor de Cristo debe constreñirnos y nos constreñirá a orar._
 Orar sin el corazón y a partir de la mera obligación del hábito, no es orar.
 Orar, cuando el peligro y la angustia del alma,
 y cuando el sentimiento del pecado y de la necesidad nos constriñen,
@@ -990,8 +1004,8 @@ Esto no lo produce el alma por sí misma, ni es capaz de producirlo; entonces,
 ¿qué lo hace?
 El amor de Cristo que la constriñe.
 
-En resumen, el amor de Cristo constriñe al alma más y más,
-por una bienaventurada atracción, a una completa y eterna unión con el Amado.
+_En resumen, el amor de Cristo constriñe al alma más y más,
+por una bienaventurada atracción, a una completa y eterna unión con el Amado._
 Ella ha bebido del agua del amor que Cristo le ha dado,
 y ésta se convertirá gradualmente en el alma,
 en una fuente de agua que salta para vida eterna.
@@ -1068,7 +1082,7 @@ y encomendándolos a Su gracia y a Su amor!
 Tan cierto como estas palabras son dirigidas a ustedes,
 así de cierto es que el compasivo amor de Cristo
 se ocupa de sus corazones y se hace sentir.
-¡Oh, sométanse a Él! ¡Háganlo ahora, para que eventualmente,
+¡Oh, sométanse a Él! ¡Háganlo _ahora,_ para que eventualmente,
 no sea demasiado tarde contemplar a Aquel que ha
 sido traspasado por los pecados de ustedes!
 Aférrense al amor, no sea que la ira se apodere de ustedes; aférrense al amor,
@@ -1090,13 +1104,13 @@ están en todas partes queriendo emboscarnos.
 Por lo tanto, debemos estar constantemente en guardia y orar,
 como el himno que hemos cantado recientemente,
 
+[verse]
+____
 ¡Oh, haznos de noche y de día vigilar,
-
 para el precioso tesoro del amor con esmero cuidar,
-
 y ante esas infernales huestes no sucumbir,
-
 que desde el abismo se levantan con fuerza para perseguir!
+____
 
 Somos propensos a pensar que esta es una precaución innecesaria,
 y que cuidaremos bien de nosotros mismos; ¡pero, ah!,
@@ -1122,7 +1136,7 @@ y junto con él todo lo que es bueno en el tiempo y en la eternidad.
 Cristo nos ama, nos ama a todos nosotros; entonces, ¿qué estamos haciendo;
 por qué deberíamos desanimarnos; por qué seguimos dormidos?
 
-Cristo los ama a ustedes, almas jóvenes,
+Cristo los ama a ustedes, _almas jóvenes,_
 que en sus florecientes años están buscando algo que amar.
 ¡Ah, cuánto me afligiría, cuánto se afligiría el Salvador,
 si se dejaran cautivar por un amor falso y engañoso! ¿No sería para siempre lamentable,
@@ -1138,7 +1152,7 @@ en sus corazones la noble inclinación a amar.
 ¡Oh, si supieran correctamente lo que es ser hallado en Cristo y en Su amor,
 ciertamente se enamorarían y serían cautivados por Su incomparable belleza!
 
-Cristo los ama a ustedes, corazones arrepentidos, angustiados y temerosos, y no lo saben,
+Cristo los ama a ustedes, _corazones arrepentidos, angustiados y temerosos,_ y no lo saben,
 y no lo creen.
 Cristo los ama de verdad; ¿continuarán entonces en su abatimiento?
 ¿No los debería animar este alegre mensaje?
@@ -1149,7 +1163,7 @@ y cuando pensó que todo había terminado para ella,
 el misericordioso cetro le fue extendido y el rey la abrazó. ¡Vengan, entonces, ustedes,
 temerosas almas, y experimentarán que su suerte no será menos favorable que la de ella!
 
-Cristo nos ama a todos los que como yo, participamos del llamamiento celestial.
+Cristo nos ama a todos los que como yo, _participamos del llamamiento celestial._
 ¿No deberíamos, pues, despertarnos del sueño, levantar los ojos de nuestros corazones,
 amar a Cristo en reciprocidad, y andar en Sus caminos con la mayor prontitud?
 ¡Qué honor es para la gente cuando son amadas por un rey o por un príncipe,
@@ -1176,16 +1190,13 @@ Vamos, entonces, y démosle la mano de nuestros corazones a Jesús,
 quien está presente con nosotros,
 y digamos en el espíritu de verdadera devoción y con todo el corazón: "`¡Sí y amén!`"
 
+[verse]
+____
 ¡Señor, me rindo de nuevo a Ti,
-
 dispuesto a renunciar a todo por Ti,
-
 y juro serte fiel para siempre a Ti!
-
 Tu hermoso nombre confesaré,
-
 sin importar lo que el mundo burlón pueda decir,
-
 y en la fidelidad de Tu pacto confiaré,
-
 para que en el último gran día me puedas recibir.
+____

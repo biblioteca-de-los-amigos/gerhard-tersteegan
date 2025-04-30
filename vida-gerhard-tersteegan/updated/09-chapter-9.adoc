@@ -1,7 +1,7 @@
 == Breves Instrucciones Sobre Cómo Buscar a Dios y la Luz de Su Rostro
 
-"`Los que a Él miraron fueron alumbrados; y sus rostros no fueron avergonzados.`"
-Salmos 34:5
+[.blurb]
+=== "`Los que a Él miraron fueron alumbrados; y sus rostros no fueron avergonzados.`" Salmos 34:5
 
 ¡Oh, hombre, incluso tú que lees esto,
 detente un momento y considera seriamente el noble propósito por el que fuiste creado,
@@ -63,13 +63,14 @@ permanece con tu mente y sentido en el momento presente con el Señor,
 y deja que Él te cuide y te guíe.
 
 Dios es un Ser universal, indivisible e ilimitado, y la razón no lo puede comprender.
-Él no es esto ni aquello en particular, sino uno y todo^
+Él no es esto ni aquello en particular, sino uno y todo.^
 footnote:[Que no se suponga que esto es otra cosa que razón sólida.
 El significado es que las excelencias particulares de una criatura pueden ser divididas,
 medidas, limitadas y comprendidas; pero Dios es un Ser extremadamente simple.
 Él no es una perfección particular,
 sino todo lo bueno y toda perfección en una unidad
-indivisible e incomprensible.]. Por lo tanto,
+indivisible e incomprensible.]
+Por lo tanto,
 para conocer a Dios y acercarte a Él,
 debes desprenderte suavemente de todas tus opiniones peculiares,
 de todas tus imágenes y pensamientos infantiles y limitados de Dios,
@@ -146,7 +147,7 @@ y de contemplar Su beatificante rostro.
 
 === Con referencia a esto, añadiré las siguientes importantes observaciones:
 
-Primera.
+_Primera._
 Debido a que los objetos y ocupaciones externas--especialmente mientras
 no estamos bien versados y establecidos en este ejercicio--causan mucha
 distracción y estorban a la mente en mayor o menor grado,
@@ -158,7 +159,7 @@ con el fin de recogernos en la presencia de Dios,
 y entrar en el estado de ánimo requerido, con la ayuda de la gracia;
 cada uno según lo permitan su estado y sus circunstancias externas.
 
-Segunda.
+_Segunda._
 Por encima de todo,
 debemos creer y estar firmemente persuadidos de que
 todo depende de la misericordia de Dios,
