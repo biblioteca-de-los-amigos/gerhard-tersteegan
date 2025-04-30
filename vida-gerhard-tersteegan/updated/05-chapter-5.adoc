@@ -1,7 +1,7 @@
-== Sobre la Naturaleza y Utilidadde la Verdadera Piedad
+== Sobre la Naturaleza y Utilidad de la Verdadera Piedad
 
-"`La piedad para todo aprovecha, pues tiene promesa de esta vida presente,
-y de la venidera`". 1 Timoteo 4:8
+[.blurb]
+=== "`La piedad para todo aprovecha, pues tiene promesa de esta vida presente, y de la venidera`". 1 Timoteo 4:8
 
 Es muy lamentable que en estos últimos tiempos oscuros y corruptos, la piedad, devoción,
 o el verdadero servicio a Dios y religión (pues todos son una y la misma cosa),
@@ -32,19 +32,19 @@ de aquello sobre lo que me estimo demasiado carente e indigno para escribir con 
 
 A fin de formarnos una idea de la naturaleza,
 excelencia y esencia de la verdadera piedad, o describir a un verdadero hombre piadoso,
-es razonable: En primer lugar,
+es razonable: En _primer lugar,_
 que no dirijamos nuestros pensamientos a las cosas que el hipócrita
 y el impío puedan tener en común con los que son realmente piadosos.
-En segundo lugar, a nada que sólo posean los piadosos, pero sólo algunos de ellos.
-En tercer lugar, a algo que todos posean, pero no todo el tiempo.
+En _segundo lugar,_ a nada que sólo posean los piadosos, pero sólo algunos de ellos.
+En _tercer lugar,_ a algo que todos posean, pero no todo el tiempo.
 Sino que debemos buscar esas características que sólo poseen los verdaderos piadosos,
 y todos ellos, y en todo tiempo.
 Esto es tan evidente que nadie puede negarlo.
 Veamos, con toda brevedad, qué resulta de estas proposiciones.
 
-En primer lugar,
+_En primer lugar,
 la naturaleza de la verdadera piedad no consiste en algo que los impíos
-y los hipócritas tengan en común con los verdaderamente piadosos.
+y los hipócritas tengan en común con los verdaderamente piadosos._
 
 De ahí, que cuando nos abstenemos de vicios grotescos, cuando no maldecimos,
 ni nos embriagamos, ni robamos, ni peleamos, etc.,
@@ -72,18 +72,18 @@ más aún,
 podemos incluso abandonar pecados secretos (que seguimos amando
 en lo profundo) por angustia de conciencia y temor al infierno;
 y todavía no ser verdaderamente piadosos.
-Todo esto es evidente, y también ha sido detalladamente ampliado por otros^
-footnote:[Consulta "`Almost Christian`" de Mead,
-"`Nature and Grace`" de Spener y "`Saint`'s Pilgrimage`"
-de Wilkinson para más información sobre este tema.];
+Todo esto es evidente, y también ha sido detalladamente ampliado por otros;^
+footnote:[Consulta "`__Almost Christian__`" de Mead,
+"`__Nature and Grace__`" de Spener y "`__Saint`'s Pilgrimage__`"
+de Wilkinson para más información sobre este tema.]
 y sin embargo, si todos estos, los que sólo tienen esto, y nada más,
 fueran tachados del catálogo de los piadosos,
 probablemente no quedarían muchos piadosos en pueblos y países enteros.
 
-En segundo lugar,
+_En segundo lugar,
 la naturaleza de la verdadera piedad no consiste
 en algo que algunos hombres piadosos posean,
-o hayan poseído, pero que no todos tengan.
+o hayan poseído, pero que no todos tengan._
 
 Bajo este encabezado pueden incluirse los éxtasis, revelaciones, dones de profecía,
 una fe obradora de maravillas, una luz extraordinaria en misterios divinos,
@@ -111,14 +111,14 @@ debe cerrar tanto su corazón como sus oídos contra la alabanza y el aplauso de
 Dado que son sólo dones que (en sí mismos) no hacen que una persona sea más piadosa;
 pero al poseerlos, la persona se encuentra en mayor peligro que otras que no los poseen.
 
-En tercer lugar,
+_En tercer lugar,
 la naturaleza de la verdadera piedad no consiste en algo que todos los piadosos poseen,
-pero no todo el tiempo.
+pero no todo el tiempo._
 
 Todos los piadosos, o la mayoría de ellos, a menudo experimentan consolaciones,
 deleites palpables, seguridades ocasionales, paz, dulzura espirituales y divinos,
 y varias otras comunicaciones divinas y dones de gracia.
-Digo que ellos experimentan estas cosas frecuentemente,
+Digo que ellos experimentan estas cosas _frecuentemente,_
 pero no todo el tiempo o sin variación,
 de lo cual se deduce que la sustancia de la verdadera
 piedad no puede consistir en estas cosas.
@@ -276,7 +276,7 @@ y dirigirlo y fijarlo todo en este único objeto que es totalmente digno,
 y amarlo sólo a Él, aferrarse a Él con todo el corazón, con toda el alma, mente y fuerza,
 y no amar nada fuera de Él que no pueda ser verdaderamente amado en Él.
 
-Los impíos (asebes) y los piadosos (eusebes) están, en las Escrituras,
+Los impíos (_asebes_) y los piadosos (_eusebes_) están, en las Escrituras,
 en directa oposición. Una persona impía es aquella que está
 desligada de Dios y aferrada a sí misma y a la creación;
 una persona piadosa es aquella que está desligada de sí misma y de la criatura,
@@ -357,8 +357,7 @@ produce un cambio total en el hombre, retira poderosamente su corazón, afectos,
 deleites y todos los poderes de su alma de todas las cosas creadas, lo une a Dios,
 su origen, y lo traslada a una vida y caminar verdaderamente santos y divinos.
 
-=== III.
-La utilidad de la verdadera piedad.
+=== III. La utilidad de la verdadera piedad.
 
 ¿No debería ser bendito en Dios el que es piadoso de este modo?
 Sí, él es verdaderamente bendito.
@@ -542,7 +541,7 @@ e incluso agradables para la persona piadosa,
 y no serían capaces de perturbar su profunda paz en Dios,
 si tan sólo aprendiera sabiamente a poner su fuerza, deleite, bienestar y salvación,
 única y completamente en Dios y en Su beneplácito.
-Digo únicamente en Dios y en Su beneplácito, no en sí misma, ni en sus propias acciones,
+Digo _únicamente_ en Dios y en Su beneplácito, no en sí misma, ni en sus propias acciones,
 ni en su propia comodidad y satisfacción; ni en la luz divina, dones, emociones,
 seguridades y cosas semejantes,
 porque todo esto puede y debe ser a menudo escondido y quitado.
@@ -595,4 +594,5 @@ abandonando todo lo que tenemos y somos,
 para que podamos ser piadosos y benditos en Él en verdad, tanto ahora como para siempre.
 Este es el deseo cordial y la más ferviente oración a la Fuente de toda piedad de,
 
+[.signed-section-signature]
 Un sincero buscador de la piedad.

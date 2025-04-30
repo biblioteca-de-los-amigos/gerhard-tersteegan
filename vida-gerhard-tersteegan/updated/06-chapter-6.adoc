@@ -1,6 +1,7 @@
-== Sobre la Diferencia del Progresoen la Piedad
+== Sobre la Diferencia del Progreso en la Piedad
 
-"`Muchos son llamados, mas pocos escogidos.`" Mateo 20:16
+[.blurb]
+=== "`Muchos son llamados, mas pocos escogidos.`" Mateo 20:16
 
 === I. La Diferencia
 
@@ -42,7 +43,7 @@ particularmente desde la apostasía de la iglesia de su primer amor y poder,
 ya que la mayoría de ellos se detienen pronto en los comienzos del Cristianismo,
 sin esforzarse seriamente por avanzar continuamente, y por eso llevan una vida más débil,
 más común, y si me permiten expresarme así,
-más externa ante los ojos de Dios y del hombre.
+más _externa_ ante los ojos de Dios y del hombre.
 Sin embargo, otros, los menos numerosos, han seguido adelante fielmente,
 y han sido atraídos y conducidos por la gracia de Dios a algo más sustancial e interno,
 en consecuencia de lo cual son diligentes en llevar una vida más santa,
@@ -213,7 +214,7 @@ ni disfrutada su bienaventuranza en ferviente comunión con Dios?
 Sin embargo, alabado sea Dios, todavía hay algunos por aquí y por allá en la actualidad,
 que no encuentran descanso ni satisfacción en un mero comienzo y estado mezclado,
 sino que están deseosos, con el joven rico mencionado en los evangelios,
-de ser perfectos (para usar las palabras del Señor Jesús),
+de ser _perfectos_ (para usar las palabras del Señor Jesús),
 y con este fin se dedican y se entregan de manera particular al Señor Jesús,
 para ser Sus verdaderos discípulos; quienes por Su gracia,
 son también diligentes en la práctica de un Cristianismo real, interno y estricto,
@@ -432,10 +433,10 @@ y se dedicaron fervientemente a una vida sencilla, retirada y piadosa;
 como podría demostrarse suficientemente a partir de los escritos de los apóstoles,
 y de los testimonio de los padres primitivos.
 Pero mis límites no me permiten ampliar este punto, y por lo tanto,
-refiero al lector a "`Arnold`'s Delineation of the Primitive Christians,`"^
-footnote:["`Perfil de los Cristianos Primitivos`" de Arnold.]
-y especialmente a su "`True Representation of the Inward Christianity of the Ancients,`"^
-footnote:["`Verdadera Representación del Cristianismo Interno de los Ancianos`".]
+refiero al lector a "`__Arnold`'s Delineation of the Primitive Christians,__`"^
+footnote:["`__Perfil de los Cristianos Primitivos__`" de Arnold.]
+y especialmente a su "`__True Representation of the Inward Christianity of the Ancients,__`"^
+footnote:["`__Verdadera Representación del Cristianismo Interno de los Ancianos__`".]
 donde se pueden encontrar numerosas pruebas de esto.
 
 Pero cuando gradualmente, el primer amor y el celo de muchos--y con el tiempo,
@@ -468,25 +469,24 @@ despreciando todo lo que pudiera en alguna forma
 impedirles o hacerlas perezosas en su caminar serio.
 Entre estas, también había muchos jóvenes devotos de ambos sexos,
 cuyo única preocupación era, cómo agradar al Señor y ser santos en cuerpo y en espíritu,
-para así aferrarse al Señor con mayor libertad^
+para así aferrarse al Señor con mayor libertad.^
 footnote:[De tales personas se jactaba Justino Mártir ante el Emperador,
 alrededor del año 130, en los siguientes términos: "`Entre nosotros hay muchos,
 de ambos sexos, que viven una vida de soltería y castidad hasta su vejez,
 después de haber seguido desde su infancia la doctrina de Cristo.
 (Mateo 19:11) Por mi parte,
 afirmo que puedo presentar ejemplos de esto entre personas de todas las clases.`"
-Apol.
-2+++.+++ Otro, poco después de él, escribió abiertamente lo siguiente:
+Apol. 2. Otro, poco después de él, escribió abiertamente lo siguiente:
 "`Hay muchos entre nosotros, tanto hombres como mujeres,
 que envejecen en una vida soltera;
 porque esperan en tal estado estar más cerca de Dios.`"
-Athenag.
-Apol.
-página 36. Y Agustín dice: "`Ya apenas sorprende que tantos jóvenes, hombres y mujeres,
+__Athenag.__ Apol. página 36.
+Y Agustín dice: "`Ya apenas sorprende que tantos jóvenes, hombres y mujeres,
 desprecien el matrimonio y vivan en castidad.`"
 Ver. Relig.
-Cap. 3. Ver también Arnold`'s Delineation, sec, 5. cap.
-5.]. También estaban los que eran generalmente llamados "`Ascetas`",
+Cap. 3. Ver también __Arnold`'s Delineation,__ sec, 5. cap.
+5.]
+También estaban los que eran generalmente llamados "`Ascetas`",
 o los que se ejercitan en la piedad, quienes estando deseosos de ser perfectos,
 según la exhortación del Señor Jesús (Mateo 19:21),
 se abstenían de toda asociación innecesaria con la humanidad y de preocupaciones superfluas,
@@ -521,15 +521,13 @@ Hilarión y otros, y particularmente en los escritos de Macario, Efraín, Sirio,
 y también de Casiano, Clímaco, etc.]
 Incluso, en los tiempos miserables que siguieron,
 Dios siempre ha tenido "`sus protegidos`" (1 Reyes 19:18; Salmo 83:3),
-como puede verse por la referencia en Catal.
-Testim.
-Veritatis^
-footnote:["`Catálogo de Testimonios de la Verdad`".],
-y en otros libros tales como Arnold`'s Theol.
-Myst.
-Cap. 16-17^
-footnote:["`Teología Mística`" de Arnold.
-Capítulos 16-17].
+como puede verse por la referencia en __Catal.
+Testim. Veritatis__,^
+footnote:["`__Catálogo de Testimonios de la Verdad__`".]
+y en otros libros tales como __Arnold`'s Theol. Myst.__
+Cap. 16-17.^
+footnote:["`__Teología Mística__`" de Arnold.
+Capítulos 16-17]
 
 Entre esas almas escogidas y devotas de Dios, también deben reconocerse, particularmente,
 las que son generalmente llamadas "`místicas`" (es decir, secretas o escondidas),
@@ -566,7 +564,7 @@ pero insisten en la negación al yo y en llevarlo a la muerte?
 No obstante, como muchos teólogos piadosos entre los protestantes mismos,
 han rescatado y defendido las verdades divinas que se encuentran en estos escritos,
 me vuelvo de nuevo a esas almas escogidas, que se sienten llamadas a esta vida interna,
-escondida y más estricta^
+escondida y más estricta.^
 footnote:[Véase entre los escritores reformados, de Voetius,
 "`Ejercicio de la Piedad y en los Ascetas`". De Lodenstein, "`La Contemplación de Sion`",
 página 39 y siguientes.
@@ -575,16 +573,14 @@ página 63. De Poiret, "`la Erudición de la Economía Divina`", etc.
 Y entre los luteranos, Lutero, Johann Arndt, Varenius, Hoburg,
 Jacob Spener en el prefacio de Tauler.
 Arnold en "`Teología Mística`", Weismann en "`Introducción a la Historia Eclesiástica`",
-parte 2, página 555 y siguientes, y Aletophili en "`Teología Mística`".].
+parte 2, página 555 y siguientes, y Aletophili en "`Teología Mística`".]
 
-=== III.
-Una Dirección Específica a Esas Almas Escogidas que
-se han Rendido a Dios y a Su Vida Internamente Escondida
+=== III. Una Dirección Específica a Esas Almas Escogidas que se han Rendido a Dios y a Su Vida Internamente Escondida
 
 A ustedes, elegidas y amadas almas,
 a ustedes devotas Nazarenas--a ustedes mi muy queridos hermanos y hermanas,
 que se han dedicado y consagrado sinceramente a una religión
-más exacta y a la vida escondida con Cristo en Dios^
+más exacta y a la vida escondida con Cristo en Dios--^
 footnote:[El santo mártir Cipriano,
 al dirigirse a las mujeres que se habían dedicado a Dios,
 les otorga los siguientes títulos: "`Flores entre las plantas de la iglesia;
@@ -595,7 +591,8 @@ según la semejanza de la santidad del Señor Jesús;
 // lint-disable invalid-characters
 lo más excelente del rebaño de Cristo`". El erudito Sandæus,
 en su prefacio a la Teología Mística, toma prestados estos apelativos y los aplica,
-no inapropiadamente, a los místicos.]--a ustedes en particular,
+no inapropiadamente, a los místicos.]
+a ustedes en particular,
 tengo todavía que dirigirles en amor,
 una palabra de amonestación y estímulo en esta ocasión. Porque aunque
 algunas de ustedes ya poseen la unción del Espíritu (1 Juan 2:27),
@@ -707,7 +704,7 @@ que Bernières elogió a su guía espiritual después de su fallecimiento dicien
 recoloca mi alma en la presencia de Dios (si se hubiera alejado de Él),
 y me da ánimo y audacia para esforzarme fervientemente
 // lint-disable invalid-characters "è"
-en pos de la verdadera virtud`". (Lettres viè illum: litt. 35. page 283.)
+en pos de la verdadera virtud`". (__Lettres viè illum:__ litt. 35. page 283.)
 
 Si otros fijan sus afectos primero en una objeto creado y luego en otro,
 y buscan y encuentran en ellos disfrute, consuelo, gozo y deleite;
@@ -739,7 +736,7 @@ Nuestra conducta, modo de caminar, palabras y gestos,
 así como también los pensamientos y la disposición del corazón,
 deben ser juzgados y pesados, no por los hombres, que sólo ven lo externo,
 sino por la purísima luz de Dios.
-No debemos procurar parecer santos, sino ser santos, y eso, sólo ante los ojos de Dios,
+No debemos procurar parecer santos, sino _ser_ santos, y eso, sólo ante los ojos de Dios,
 quien "`examina los íntimos pensamientos y el corazón`".
 Debemos mantener lo más profundo de nuestras almas,
 constantemente desnudas y abiertas a los rayos de este Sol eterno,
@@ -764,7 +761,7 @@ no a nuestra diligencia y fidelidad, sino a la inmerecida gracia y poder de Dios
 ¿Qué tenemos pues, que no nos haya sido dado?
 Si llegamos a ser santos y felices, es por gracia y no por nosotros mismos;
 es don de Dios (Efesios 2:8). ¿De qué pues nos jactamos?
-Si hay algo bueno en nosotros, no procede de nosotros ni es nuestro,
+Si hay algo bueno en nosotros, no procede _de nosotros_ ni _es nuestro,_
 es y sigue siendo propiedad de Dios, quien tiene en Su poder tomar de nuevo lo Suyo.
 
 Por lo tanto, si no podemos gloriarnos, ni siquiera en la menor medida,
@@ -846,7 +843,7 @@ de Jesucristo como nuestra expiación y justificación,
 que quizás muchos de sus acusadores.
 
 Pero mientras tanto, almas escogidas, reconozcamos con humilde gratitud,
-que si no tuviéramos a Jesús por nosotros, nunca habríamos tenido a Jesús en nosotros.
+que si no tuviéramos a Jesús _por_ nosotros, nunca habríamos tenido a Jesús _en_ nosotros.
 Y que si alguna vez somos exaltados al estado de
 la más elevada y pura contemplación de la Deidad,
 en esta vida o en la siguiente,

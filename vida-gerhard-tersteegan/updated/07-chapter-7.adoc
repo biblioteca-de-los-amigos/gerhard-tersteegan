@@ -1,8 +1,9 @@
 == Sobre la Sombra y Sustancia, Forma y Poder de la Piedad, en una Carta a un Amigo
 
-"`Teniendo la apariencia de piedad, mas negando el poder de ella.`"
-2 Timoteo 3:5 (RV1602P)
+[.blurb]
+=== "`Teniendo la apariencia de piedad, mas negando el poder de ella.`" 2 Timoteo 3:5 (RV1602P)
 
+[.salutation]
 Querido amigo,
 
 Si tuviera que comunicarte mis pensamiento sobre
@@ -19,7 +20,7 @@ o diferente a lo que somos en realidad, o deseamos ser,
 por muy secreta o sutilmente que esto suceda, no caminamos en sencillez;
 es falsedad y no verdad; o al menos, algo asumido y simulado;
 una sombra y no la sustancia; una abominación ante los ojos de Dios.
-No sólo es erróneo mostrarnos mejor de lo que somos,
+No sólo es erróneo mostrarnos _mejor_ de lo que somos,
 sino que además es una pretensión inapropiada,
 o incluso un vano deseo de ser mejor considerados,
 cuando nos presentamos (ya sea en palabras o de otra manera) más pobres,
@@ -137,8 +138,8 @@ y también de una manera mucho más pura, hermosa y viva.
 Y después de que nosotros mismos, y los poderes de nuestras almas con sus operaciones,
 hemos sido purificados,
 Dios nos concede ocasionalmente una santa desviación y excursión de este tipo.
-Sí, Él a veces nos lleva afuera para mirar Sus pinturas y descripciones,
-y luego adentro otra vez, para que contemplemos la sustancia original de la verdad;
+Sí, Él a veces nos lleva _afuera_ para mirar Sus pinturas y descripciones,
+y luego _adentro_ otra vez, para que contemplemos la sustancia original de la verdad;
 y así, entrando y saliendo con nuestro Pastor, encontramos alimento en todas partes.
 
 Pero obsérvese:
@@ -217,11 +218,13 @@ Sin embargo, nadie muere con Cristo, si no está crucificado con Él.
 "`¡Sí, oh Señor!
 Cualquier cosa que pueda llamarse verdadera bondad, virtud, santidad,
 es todo obra Tuya y un don gratuito de gracia.
-(Sin tu nombre, no hay nada en el hombre.)
+(__Sin tu nombre, no hay nada en el hombre.__)
 
+[verse]
+____
 Mi corazón, sin tu poder y gracia,
-
-Un verdadero bien, nunca podrá poseer.`"
+Un verdadero bien, nunca podrá poseer.
+____
 
 Cuán fácil es decir esto, pero cuánto cuesta aprender a practicarlo,
 si sinceramente buscamos adquirirlo y no nos contentamos
@@ -453,7 +456,7 @@ o al menos, la flor por el fruto; abrazar a Lea en lugar de abrazar a Raquel?
 semejanza con lo que es realmente espiritual,
 pero no son por ello, una y la misma cosa.
 
-Finalmente.
+Finalmente:
 También podemos observar sobre este tema,
 que todos los actos internos de oración y devoción, de recogimiento, humillación,
 rendición, adoración y amor, etc.,
@@ -511,7 +514,7 @@ mansa y rendidamente en la presencia de Dios, y listos,
 al menor indicio o conciencia de Su operación, a ser sumisos y hacerle sitio a Él.
 
 "`Oh, Señor, Tú, todo suficiente e infinito Ser, supremo Ser, único Ser, sí, más que Ser;
-sólo Tú puedes decir con verdad: Yo Soy.
+sólo Tú puedes decir con verdad: _Yo Soy._
 Y este '`Yo Soy`' es tan ilimitado e indudablemente verdadero,
 que no se puede encontrar ningún juramento que coloque la verdad más allá de toda duda,
 que cuando sale de Tu boca esta palabra: '`Yo Soy`', '`Vivo Yo`'`".
@@ -528,7 +531,7 @@ Preferiría no ser yo y que las cosas no fuesen, a que Tú no fueses`".
 
 "`¿Pero qué soy yo y qué son todas las cosas?
 ¿Soy yo realmente, y es todo realmente?
-¿Qué es este yo?
+¿Qué es este _yo_?
 ¿Qué es este todo?
 Nosotros somos, sólo porque Tú eres y porque Tú quieres que seamos;
 pobres y diminutos seres, que en comparación Contigo y en la presencia de tu Ser,
@@ -568,7 +571,7 @@ Me invade el yo; soy egoísmo puro;
 todos mis movimientos internos y externos son egoístas; todas mis virtudes,
 al proceder de mí, son egoístas e impuras ante Tus ojos`".
 
-"`¡Ojalá yo no existiera más, ni tuviera en mí mismo, ni vida, ni entendimiento,
+"`¡Ojalá yo no existiera más, ni tuviera en _mí mismo,_ ni vida, ni entendimiento,
 ni voluntad, ni pensamiento, ni ningún otro movimiento; y que Tú, mi Dios, mi Jesús,
 fueras y obraras todo en mí! Haz que aquello, oh Señor, que Tú no hablas ni obras en mí,
 permanezca en silencio y cese para siempre.
